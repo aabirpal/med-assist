@@ -3,7 +3,6 @@ load_dotenv()
 
 """
 config.py — Med-Assist configuration
-Single source of truth. Import constants from here; never hardcode them elsewhere.
 """
 
 # ── LLM ───────────────────────────────────────────────────
