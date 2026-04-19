@@ -36,19 +36,30 @@ User → memory → router → [retrieve | skip | tool] → answer → eval → 
 ## Quickstart
 
 ```bash
-# 1. Clone and install
+# 1. Clone the repo
 git clone https://github.com/aabirpal/med-assist.git
 cd med-assist
+
+# 2. Create and activate virtual environment
+python -m venv venv
+
+# On macOS/Linux
+source venv/bin/activate
+
+# On Windows
+venv\Scripts\activate
+
+# 3. Install dependencies
 pip install -r requirements.txt
 
-# 2. Add your API key
+# 4. Add your API key
 cp .env.example .env
 # edit .env → GROQ_API_KEY=...
 
-# 3. Run the UI
-streamlit run app/capstone_streamlit.py
-
+# 5. Run the UI
+streamlit run capstone_streamlit.py
 ```
+
 ---
 
 ## Medical Calculator Tool
