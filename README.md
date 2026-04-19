@@ -64,7 +64,3 @@ CHA2DS2-VASc: female, 74 years old, hypertension and diabetes
 ---
 
 > ⚠️ All medical decisions must be verified by a qualified senior medician.
-<<<<<<< HEAD
-=======
-
->>>>>>> f7be2cfffa997a6c6b83a64aab73b1efa49c0c23
