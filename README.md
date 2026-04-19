@@ -1,6 +1,4 @@
-# ⚕️ Med-Assist — Medical Diagnosis Assistant
-
-Made this for my Agentic AI Hands-On Course taught by Dr. Kanthi Kiran Sirra (Sr. AI Engineer)
+# ⚕️ Med-Assist : Medical Diagnosis Assistant
 
 An evidence-grounded medical decision support agent for medical students and junior doctors. Built with LangGraph, ChromaDB RAG, and a domain-specific medical risk score calculator.
 
