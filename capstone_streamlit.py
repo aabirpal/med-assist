@@ -1,5 +1,5 @@
 """
-capstone_streamlit.py — Med-Assist Clinical Diagnosis Assistant
+capstone_streamlit.py — Med-Assist Medical Diagnosis Assistant
 Streaming Streamlit UI. All logic lives in agent.py and knowledge_base/.
 
 Run: streamlit run capstone_streamlit.py
@@ -35,14 +35,14 @@ from knowledge_base import DOCUMENTS, collection
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Med-Assist — Clinical Diagnosis Assistant",
+    page_title="Med-Assist — Medical Diagnosis Assistant",
     page_icon="⚕️",
     layout="centered",
     initial_sidebar_state="expanded",
 )
 
-st.title("⚕️ Med-Assist — Clinical Diagnosis Assistant")
-st.caption("Evidence-based clinical decision support for medical students and junior doctors")
+st.title("⚕️ Med-Assist — Medical Diagnosis Assistant")
+st.caption("Evidence-based medical decision support for medical students and junior doctors")
 st.success(f"Knowledge base loaded — {collection.count()} chunks from {len(DOCUMENTS)} documents")
 
 # ── Session state ─────────────────────────────────────────────────────────────
@@ -52,17 +52,17 @@ if "thread_id" not in st.session_state: st.session_state.thread_id = str(uuid.uu
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 with st.sidebar:
     st.header("⚕️ Med-Assist")
-    st.write("Evidence-based clinical decision support for medical students and junior doctors.")
+    st.write("Evidence-based medical decision support for medical students and junior doctors.")
     st.divider()
     st.write(f"**Session ID:** `{st.session_state.thread_id}`")
     st.divider()
 
-    st.write("**Clinical Topics Covered:**")
+    st.write("**Medical Topics Covered:**")
     for doc in DOCUMENTS:
         st.write(f"• {doc['topic']}")
     st.divider()
 
-    st.write("**Clinical Calculator Tool:**")
+    st.write("**Medical Calculator Tool:**")
     st.info(
         "Provide patient parameters and ask for a score:\n\n"
         "- *CURB-65: age 70, confused, urea 9, RR 32, BP 110/70*\n"
@@ -83,7 +83,7 @@ for msg in st.session_state.messages:
         st.markdown(msg["content"])
 
 # ── Chat input ────────────────────────────────────────────────────────────────
-if prompt := st.chat_input("Ask a clinical question or request a risk score..."):
+if prompt := st.chat_input("Ask a medical question or request a risk score..."):
 
     # Show user message immediately
     with st.chat_message("user"):
@@ -122,4 +122,4 @@ if prompt := st.chat_input("Ask a clinical question or request a risk score...")
             st.session_state.messages.append({"role": "assistant", "content": full_answer})
         except Exception as e:
             placeholder.empty()
-            st.error(f"⚠️ Clinical Diagnosis Assistant error: {e}")
+            st.error(f"⚠️ Medical Diagnosis Assistant error: {e}")
