@@ -6,7 +6,7 @@ An evidence-grounded medical decision support agent for medical students and jun
 
 Med-Assist accepts natural-language medical questions and:
 
-- **Retrieves** grounded answers from a 12-document medical knowledge base (ChromaDB)
+- **Retrieves** grounded answers from a 20-document medical knowledge base (ChromaDB)
 - **Calculates** validated medical risk scores deterministically (CURB-65, Wells PE, CHA₂DS₂-VASc)
 - **Remembers** conversation context across multi-turn consultations (MemorySaver + sliding window)
 - **Self-reflects** via a faithfulness evaluator that retries hallucinated answers (threshold 0.80)
@@ -24,7 +24,7 @@ User → memory → router → [retrieve | skip | tool] → answer → eval → 
 |---|---|---|
 | `memory` | `agent.py` | Appends question; 6-message sliding window |
 | `router` | `agent.py` | Classifies as `retrieve` / `memory_only` / `tool` |
-| `retrieve` | `agent.py` | ChromaDB top-5 chunk lookup |
+| `retrieve` | `agent.py` | ChromaDB top-6 chunk lookup |
 | `skip` | `agent.py` | No-op for memory_only route |
 | `tool` | `agent.py` | LLM extracts params → deterministic calculator |
 | `answer` | `agent.py` | LLM call with strict grounding rules |
@@ -62,6 +62,17 @@ streamlit run capstone_streamlit.py
 
 ---
 
+## Knowledge Base
+
+Documents are managed via `knowledge_base/manifest.json`. Each entry maps to a `.txt` file in `knowledge_base/docs/`.
+
+**To add a new document:**
+1. Create a new `.txt` file in `knowledge_base/docs/`
+2. Add an entry to `manifest.json`
+3. Delete `./chroma_db` (triggers rebuild on next startup)
+
+---
+
 ## Medical Calculator Tool
 
 Ask in plain English with patient parameters:
@@ -74,4 +85,4 @@ CHA2DS2-VASc: female, 74 years old, hypertension and diabetes
 
 ---
 
-> ⚠️ All medical decisions must be verified by a qualified senior medician.
+> ⚠️ All medical decisions must be verified by a qualified senior clinician.

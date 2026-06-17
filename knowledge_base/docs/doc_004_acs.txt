@@ -1,0 +1,43 @@
+Acute coronary syndrome (ACS) is myocardial ischaemia due to sudden reduction in coronary blood flow. It includes ST-elevation myocardial infarction (STEMI), non-ST-elevation myocardial infarction (NSTEMI), and unstable angina.
+
+PATHOPHYSIOLOGY: Most ACS results from rupture or erosion of an atherosclerotic plaque with platelet activation and thrombus formation. Complete coronary occlusion commonly causes STEMI. Partial occlusion or transient occlusion may cause NSTEMI or unstable angina. NSTEMI has troponin rise; unstable angina has ischaemic symptoms without biomarker evidence of myocardial necrosis.
+
+RISK FACTORS: Increasing age, smoking, hypertension, diabetes, dyslipidaemia, chronic kidney disease, obesity, sedentary lifestyle, family history of premature coronary artery disease, and previous cardiovascular disease.
+
+CLINICAL FEATURES: Central pressure, tightness, heaviness, or crushing chest discomfort lasting more than 10-20 minutes. Pain may radiate to the left arm, both arms, neck, jaw, epigastrium, or back. Associated symptoms include dyspnoea, sweating, nausea, vomiting, palpitations, collapse, or sense of impending doom. Presentations can be atypical in older adults, women, and people with diabetes or renal disease.
+
+DIFFERENTIAL DIAGNOSIS: Aortic dissection, pulmonary embolism, pericarditis, myocarditis, pneumothorax, pneumonia, oesophageal spasm, reflux disease, biliary colic, panic attack, and musculoskeletal pain.
+
+INITIAL ASSESSMENT: ABCDE, cardiac monitor, IV access, observations, 12-lead ECG within 10 minutes, repeat ECG if symptoms persist, and blood tests including troponin, FBC, U&E, glucose, lipids, coagulation, and group-and-save if invasive treatment likely. Give oxygen only if hypoxic or in respiratory distress.
+
+ECG FEATURES: STEMI shows ST elevation in anatomically contiguous leads or new STEMI-equivalent patterns. NSTEMI/unstable angina may show ST depression, T-wave inversion, transient ST elevation, or a normal ECG. A normal initial ECG does not exclude ACS.
+
+TROPONIN: High-sensitivity troponin supports diagnosis and risk stratification. Use local serial testing protocols, often at 0 and 1-3 hours. Do not delay reperfusion for suspected STEMI while waiting for troponin.
+
+MANAGEMENT PRINCIPLES: STEMI requires urgent reperfusion, preferably primary PCI when available within recommended time windows. Fibrinolysis may be used if PCI is unavailable and no contraindications exist. NSTEMI/unstable angina requires antiplatelet therapy, anticoagulation, symptom control, risk stratification, and early invasive angiography for high-risk features. Analgesia includes nitrates if blood pressure allows and opioids for severe pain. Secondary prevention usually includes antiplatelet therapy, high-intensity statin, beta-blocker where appropriate, ACE inhibitor/ARB after MI or LV dysfunction, smoking cessation, diabetes and BP control, and cardiac rehabilitation.
+
+COMPLICATIONS: Arrhythmia, cardiogenic shock, acute heart failure, papillary muscle rupture, ventricular septal rupture, free-wall rupture, pericarditis, mural thrombus, and recurrent MI.
+
+STUDENT DIAGNOSTIC APPROACH: ACS is a clinical syndrome supported by ECG and troponin. Do not wait for a classic story. Older adults, women, people with diabetes, kidney disease, or dementia may present with breathlessness, weakness, syncope, confusion, vomiting, or epigastric discomfort. Ask about previous MI, PCI/CABG, antiplatelets, anticoagulants, bleeding history, cocaine or stimulant use, and time of symptom onset. Always compare with old ECGs when available.
+
+STEMI LOCALISATION: Inferior STEMI involves leads II, III, and aVF and may be associated with right ventricular infarction; avoid excessive nitrates if hypotensive or RV infarct suspected. Anterior STEMI involves V1-V4 and can threaten a large myocardial territory. Lateral involvement appears in I, aVL, V5, and V6. Posterior MI can present with ST depression in V1-V3 and tall R waves; posterior leads may show ST elevation. Reciprocal changes increase confidence but absence does not exclude MI.
+
+TROPONIN INTERPRETATION: Troponin indicates myocardial injury, not always type 1 MI. It can rise in myocarditis, PE, sepsis, tachyarrhythmia, heart failure, renal disease, and critical illness. ACS diagnosis depends on a rise/fall pattern plus ischaemic symptoms, ECG changes, imaging evidence, or angiographic findings. A single early normal troponin can be falsely reassuring if symptoms began recently.
+
+RISK STRATIFICATION: NSTEMI and unstable angina are risk stratified using clinical instability, ECG changes, troponin dynamics, heart failure, arrhythmia, diabetes, kidney disease, prior coronary disease, and scores such as GRACE. High-risk patients need early cardiology review and possible invasive angiography. Low-risk chest pain still needs clear safety-netting and follow-up.
+
+MEDICATION PRINCIPLES: Aspirin is commonly given early unless contraindicated. A second antiplatelet, anticoagulation, nitrates, beta-blockers, ACE inhibitors, and statins depend on ACS type, bleeding risk, blood pressure, heart rate, heart failure, asthma/COPD severity, renal function, and planned PCI. Avoid nitrates in hypotension, severe aortic stenosis, right ventricular infarct, or recent phosphodiesterase-5 inhibitor use.
+
+REPERFUSION AND SYSTEMS OF CARE: STEMI care is time-critical. Primary PCI is preferred where rapidly available. Fibrinolysis is considered when PCI delay is excessive and contraindications are absent, followed by transfer for angiography. After reperfusion, monitor for arrhythmias, recurrent pain, heart failure, bleeding, and reperfusion injury.
+
+SECONDARY PREVENTION: Before discharge, address smoking, cardiac rehabilitation, exercise, diet, BP, diabetes, lipids, depression, medication adherence, and return precautions. Explain that stopping antiplatelet therapy after stenting without advice can cause stent thrombosis.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "STEMI versus NSTEMI?", explain that STEMI is usually persistent transmural ischaemia with ST elevation or equivalent needing immediate reperfusion, while NSTEMI has myocardial necrosis with troponin rise but no STEMI ECG pattern. For "unstable angina?", explain ischaemic symptoms without troponin rise. For "what if ECG is normal?", state ACS is still possible and serial ECG/troponin plus clinical judgement are needed. For "what is MONA?", avoid rote use; oxygen only if hypoxic, nitrates only if safe, analgesia as needed, and antiplatelet/anticoagulant therapy according to pathway.
+
+MECHANICAL COMPLICATIONS: Papillary muscle rupture causes acute severe mitral regurgitation and pulmonary oedema. Ventricular septal rupture causes shock with a new harsh systolic murmur. Free-wall rupture causes tamponade and electromechanical dissociation. These complications are uncommon but catastrophic and usually occur after MI, especially delayed presentation.
+
+POST-MI RISK REVIEW: Check LV function, arrhythmia risk, renal function, bleeding risk, diabetes, BP, lipid profile, smoking, and social support. Patients need clear advice about recurrent chest pain, breathlessness, syncope, palpitations, bleeding, and medication adherence. Cardiac rehabilitation improves recovery and risk-factor control.
+
+SAFETY NOTES: Treat ongoing chest pain with dynamic ECG changes, shock, or acute heart failure as high risk. Suspected aortic dissection is a critical mimic because antithrombotics or thrombolysis may cause harm.
+
+Sources used: ESC 2023 acute coronary syndrome guideline, Merck Manual Professional, American Heart Association educational material.

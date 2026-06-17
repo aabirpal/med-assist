@@ -1,0 +1,45 @@
+Acute appendicitis is inflammation of the vermiform appendix and a common cause of acute abdominal pain requiring surgery. It is most common in adolescents and young adults but can occur at any age.
+
+PATHOPHYSIOLOGY: Luminal obstruction by lymphoid hyperplasia, faecolith, tumour, parasite, or inflammation can lead to bacterial overgrowth, venous congestion, ischaemia, perforation, abscess, or peritonitis. Perforation risk increases with delayed diagnosis.
+
+CLINICAL FEATURES: Classically, vague periumbilical pain migrates to the right iliac fossa, followed by anorexia, nausea, vomiting, and low-grade fever. Pain is often worse with movement, coughing, or bumps in transport. Examination may show right lower quadrant tenderness, guarding, rebound, percussion tenderness, Rovsing sign, psoas sign, or obturator sign.
+
+VARIATIONS: Retrocaecal appendicitis may cause flank or back pain and less obvious abdominal tenderness. Pelvic appendicitis may cause suprapubic pain, urinary symptoms, diarrhoea, or rectal tenderness. Older adults, pregnancy, young children, and immunosuppressed patients may present atypically.
+
+DIFFERENTIAL DIAGNOSIS: Gastroenteritis, mesenteric adenitis, Meckel diverticulitis, Crohn disease, right-sided diverticulitis, renal colic, UTI, testicular torsion, ovarian torsion, ruptured ovarian cyst, ectopic pregnancy, pelvic inflammatory disease, and constipation.
+
+INITIAL ASSESSMENT: ABCDE if unwell. Record observations, pain severity, hydration, pregnancy possibility, surgical history, and last oral intake. Examine abdomen, groins, testes in males when relevant, and consider pelvic examination according to setting and consent.
+
+INVESTIGATIONS: FBC may show neutrophil leukocytosis, but normal WBC does not exclude appendicitis. CRP may be raised. U&E assesses dehydration and operative risk. Urinalysis may show mild pyuria or haematuria from adjacent inflammation, but marked urinary findings suggest UTI or stone. Pregnancy test is essential in people of reproductive potential.
+
+IMAGING: Ultrasound is often used first in children and pregnancy but is operator-dependent. CT abdomen/pelvis has high diagnostic accuracy in adults and helps identify complications or alternative diagnoses. MRI can be used in pregnancy when ultrasound is inconclusive and available.
+
+MANAGEMENT: Keep nil by mouth if surgery likely, give analgesia, antiemetics, IV fluids if dehydrated, and antibiotics if complicated appendicitis or peri-operative prophylaxis is indicated. Laparoscopic appendicectomy is common definitive treatment. Non-operative antibiotic management may be considered in selected uncomplicated cases, but recurrence and missed complicated disease are concerns.
+
+COMPLICATIONS: Perforation, local abscess, generalised peritonitis, sepsis, bowel obstruction, wound infection, and intra-abdominal collection.
+
+STUDENT DIAGNOSTIC APPROACH: Appendicitis is a clinical diagnosis supported by labs and imaging. The sequence of pain before vomiting supports appendicitis more than vomiting before pain, which is common in gastroenteritis. Anorexia is common but not universal. Ask about migration, fever, bowel habit, urinary symptoms, gynaecological symptoms, last menstrual period, pregnancy possibility, previous abdominal surgery, and immunosuppression.
+
+EXAMINATION DETAILS: Inspect for guarding and movement avoidance. Palpate gently away from the pain first. Localised peritonism suggests inflamed parietal peritoneum. Rovsing sign is right iliac fossa pain with left-sided palpation. Psoas sign suggests retrocaecal irritation; obturator sign suggests pelvic appendix irritation. Rectal or pelvic examination is selective, not automatic, and should be done only when clinically useful with consent and appropriate chaperone.
+
+SCORING SYSTEMS: Scores such as Alvarado or AIR score combine symptoms, signs, temperature, WBC, neutrophils, and CRP to estimate probability. They are aids to decision-making, especially for observation or imaging strategy, but cannot replace reassessment. A low score may support discharge with safety-netting; an intermediate score often needs observation or imaging; a high score needs surgical review.
+
+IMAGING STRATEGY: Ultrasound avoids radiation but may not visualise the appendix, especially in obesity or bowel gas. CT improves diagnostic confidence and identifies perforation, abscess, tumour, Crohn disease, diverticulitis, or renal stones. MRI is useful in pregnancy and young patients where available. Imaging should not delay surgery in a clearly peritonitic or septic patient.
+
+COMPLICATED APPENDICITIS: Perforation or abscess may cause diffuse pain, high fever, tachycardia, sepsis, mass, ileus, or prolonged symptoms. Management may include IV antibiotics, drainage of abscess, urgent surgery, or interval appendicectomy depending on stability and local surgical judgement.
+
+NON-OPERATIVE MANAGEMENT: Antibiotics alone can treat selected uncomplicated appendicitis, but recurrence and later surgery are possible. Shared decision-making requires clear explanation that appendicectomy gives definitive source control, while antibiotics may avoid immediate surgery in carefully selected cases.
+
+POSTOPERATIVE AND DISCHARGE POINTS: Monitor pain, fever, diet tolerance, wound infection, ileus, and intra-abdominal collection. Safety-net return for worsening pain, fever, vomiting, wound discharge, syncope, or inability to hydrate.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "what is the classic presentation?", describe periumbilical pain migrating to the right iliac fossa with anorexia, nausea, vomiting, fever, and localised tenderness. For "what are differentials in a young woman?", include ectopic pregnancy, ovarian torsion, ruptured cyst, PID, UTI, renal colic, and gastroenteritis. For "what tests are needed?", include pregnancy test, FBC, CRP, U&E, urinalysis, and imaging according to age, sex, pregnancy, and diagnostic certainty.
+
+APPENDICITIS IN PREGNANCY: The appendix may be displaced upward as pregnancy advances, and symptoms overlap with pregnancy-related nausea and abdominal discomfort. Maternal delay increases risk of perforation and fetal loss. Use pregnancy-safe imaging pathways and early surgical/obstetric input. Do not dismiss right-sided abdominal pain in pregnancy as round ligament pain without assessment.
+
+CHILDREN AND OLDER ADULTS: Children may present with irritability, limp, diarrhoea, or poor feeding. Older adults often have less fever and less localised tenderness but higher perforation risk. Immunosuppressed patients may have muted inflammatory markers and signs. These groups need a lower threshold for observation, imaging, and senior review.
+
+PITFALLS: Diarrhoea does not exclude appendicitis, especially pelvic appendicitis. A normal WBC does not exclude appendicitis. Urinary symptoms can occur from an inflamed appendix irritating the bladder or ureter. Pain relief after perforation may be temporary and misleading before peritonitis develops.
+
+SAFETY NOTES: Do not withhold analgesia to preserve signs. Peritonitis, sepsis, pregnancy, severe pain, or diagnostic uncertainty with deterioration requires urgent surgical review.
+
+Sources used: Merck Manual Professional, NICE acute abdominal pain/appendicitis evidence resources, surgical education references.

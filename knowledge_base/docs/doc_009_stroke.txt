@@ -1,0 +1,41 @@
+Stroke is acute focal neurological dysfunction due to cerebral infarction or haemorrhage. Transient ischaemic attack (TIA) is transient focal neurological dysfunction caused by ischaemia without established infarction. Both are emergencies because early treatment prevents death and disability.
+
+TYPES: Ischaemic stroke is caused by arterial occlusion from thrombosis, embolism, small-vessel disease, or hypoperfusion. Haemorrhagic stroke includes intracerebral haemorrhage and subarachnoid haemorrhage. TIA often resolves within minutes but predicts high early stroke risk.
+
+CLINICAL FEATURES: FAST features are facial droop, arm weakness, and speech disturbance. Other features include unilateral leg weakness, sensory loss, visual field defect, diplopia, vertigo with focal signs, ataxia, dysphagia, neglect, aphasia, dysarthria, confusion, or reduced consciousness. Sudden severe headache suggests subarachnoid haemorrhage but can occur in other diagnoses.
+
+MIMICS: Hypoglycaemia, seizure with Todd paresis, migraine aura, vestibular disorders, functional neurological disorder, brain tumour, subdural haematoma, sepsis, syncope, and metabolic disturbance.
+
+INITIAL ASSESSMENT: Use ABCDE, check capillary glucose immediately, record time last known well, establish baseline function, medications including anticoagulants, bleeding risk, and contraindications to reperfusion. Assess swallowing before oral intake. Use a stroke scale such as NIHSS where trained.
+
+INVESTIGATIONS: Urgent non-contrast CT brain distinguishes haemorrhage from ischaemia and excludes major mimics. CT angiography identifies large-vessel occlusion when thrombectomy is considered. MRI is more sensitive for early or posterior circulation infarct but may not be immediately available. Blood tests include FBC, U&E, glucose, coagulation, lipids, HbA1c, and group-and-save if needed. ECG and cardiac monitoring look for atrial fibrillation.
+
+ACUTE MANAGEMENT: Ischaemic stroke may be eligible for IV thrombolysis within a defined time window if criteria are met, and mechanical thrombectomy for selected large-vessel occlusions. Haemorrhagic stroke management includes blood pressure control, reversal of anticoagulation, neurosurgical assessment when indicated, and management of raised intracranial pressure. Give oxygen only if hypoxic, treat fever, maintain hydration and glucose, and prevent aspiration.
+
+TIA MANAGEMENT: TIA needs urgent specialist assessment, brain/vascular imaging, ECG, and secondary prevention. Antiplatelet therapy, statin, blood pressure management, diabetes control, smoking cessation, and carotid intervention for selected symptomatic carotid stenosis may be required. Anticoagulation is used for atrial fibrillation once haemorrhage is excluded and timing is appropriate.
+
+COMPLICATIONS: Cerebral oedema, haemorrhagic transformation, aspiration pneumonia, DVT/PE, seizures, depression, dysphagia, falls, pressure injury, and long-term disability.
+
+STUDENT DIAGNOSTIC APPROACH: Stroke is a time diagnosis. Always establish "last known well", not just when symptoms were noticed. Ask whether symptoms were sudden, maximal at onset, persistent, fluctuating, or resolved. Identify baseline function, anticoagulant use, recent surgery, bleeding history, seizure at onset, migraine history, infection, trauma, and pregnancy/postpartum state. Check glucose immediately because hypoglycaemia can mimic stroke and is rapidly reversible.
+
+LOCALISATION CLUES: Middle cerebral artery stroke often causes contralateral face/arm weakness and sensory loss; dominant hemisphere involvement causes aphasia, non-dominant involvement causes neglect. Anterior cerebral artery stroke affects leg more than arm and may cause abulia or urinary incontinence. Posterior cerebral artery stroke causes visual field loss. Brainstem or cerebellar stroke may cause diplopia, dysphagia, dysarthria, vertigo, ataxia, crossed signs, or reduced consciousness.
+
+TIA DETAILS: TIA symptoms resolve, but the cause may still be unstable plaque or cardioembolism. Treat TIA as an emergency warning. High-risk features include recurrent events, weakness, speech disturbance, atrial fibrillation, carotid stenosis symptoms, crescendo TIAs, and symptoms within the last 24-48 hours. The absence of infarct on early imaging does not mean the event was harmless.
+
+REPERFUSION THINKING: IV thrombolysis and mechanical thrombectomy have strict time, imaging, disability, and contraindication criteria. Mechanical thrombectomy is considered for selected large-vessel occlusions and may be used beyond traditional thrombolysis windows when imaging shows salvageable brain. Students should know the principle: fast recognition, fast imaging, fast specialist decision.
+
+HAEMORRHAGIC STROKE: Intracerebral haemorrhage may present with headache, vomiting, reduced consciousness, severe hypertension, seizure, or focal deficit. Management includes reversal of anticoagulation, BP control, neurosurgical consideration, and management of raised intracranial pressure. Subarachnoid haemorrhage classically causes thunderclap headache, meningism, photophobia, vomiting, syncope, or reduced consciousness.
+
+SECONDARY PREVENTION: After ischaemic stroke/TIA, identify mechanism: large artery atherosclerosis, cardioembolism, small vessel disease, dissection, hypercoagulability, or other cause. Prevention may include antiplatelet therapy, anticoagulation for AF, statin, BP control, diabetes management, smoking cessation, carotid endarterectomy/stenting for selected symptomatic stenosis, and rehabilitation.
+
+REHABILITATION AND WARD CARE: Early swallow assessment prevents aspiration. Physiotherapy, occupational therapy, speech and language therapy, dietetics, psychology, and social work are central. Prevent DVT, pressure injury, falls, malnutrition, delirium, and depression. Good stroke care is multidisciplinary, not just reperfusion.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "stroke versus TIA?", explain persistent infarction versus transient symptoms without established infarction, while stressing both need urgent assessment. For "what is FAST?", include face, arm, speech, and time, but note posterior circulation stroke may be missed. For "what investigations are urgent?", include glucose, CT brain, vascular imaging when eligible, ECG, bloods, and swallow screen. For "why not give aspirin immediately?", explain haemorrhage must be excluded first.
+
+ANTITHROMBOTIC PRINCIPLES: Ischaemic stroke not treated with thrombolysis usually receives antiplatelet therapy after haemorrhage is excluded. AF-related stroke generally needs anticoagulation, but timing depends on infarct size, haemorrhagic transformation risk, and specialist advice. Dual antiplatelet therapy may be used short-term in selected minor stroke/TIA pathways, not indefinitely for everyone.
+
+BP AND GLUCOSE: Very high or very low blood pressure can worsen brain injury. BP targets differ for thrombolysis candidates, haemorrhagic stroke, and non-thrombolysed ischaemic stroke. Treat hypoglycaemia immediately. Avoid severe hyperglycaemia, fever, hypoxia, and dehydration because they worsen outcomes.
+
+SAFETY NOTES: Do not give aspirin until intracranial haemorrhage is excluded. Posterior circulation stroke may present without FAST signs; severe vertigo plus focal neurological signs is concerning.
+
+Sources used: American Stroke Association, WHO stroke resources, NICE stroke/TIA guidance, Merck Manual Professional.

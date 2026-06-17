@@ -10,15 +10,20 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# ChromaDB (in-memory, but guard against accidental persistence)
+# ChromaDB 
 chroma_data/
 chroma/
+chroma_db/
 
-# Generated outputs — reproducible, no need to commit
-eval_results.json
-red_team_results.json
-capstone_streamlit.py
+# Backups
+backup_fix_1/
+
+# IDEs
+.vscode/
+.idea/
 
 # OS
 .DS_Store
 Thumbs.db
+
+

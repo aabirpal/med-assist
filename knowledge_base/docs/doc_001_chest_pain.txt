@@ -1,0 +1,48 @@
+Chest Pain - Differential Diagnosis and Emergency Approach
+
+DEFINITION AND SCOPE:
+Chest pain is a common emergency presentation with causes ranging from benign musculoskeletal pain to immediately life-threatening disease. The clinical priority is not to make the perfect diagnosis in the first minute, but to identify unstable patients, treat reversible threats, and avoid missing acute coronary syndrome, aortic dissection, pulmonary embolism, tension pneumothorax, oesophageal rupture, and severe pneumonia.
+
+KEY CLINICAL FEATURES:
+Assess onset, location, character, radiation, severity, duration, triggers, relieving factors, associated symptoms, and cardiovascular risk factors. Central pressure or heaviness radiating to the arm, jaw, neck, or back suggests myocardial ischaemia, especially with sweating, nausea, dyspnoea, or collapse. Sharp pleuritic pain suggests pulmonary embolism, pneumothorax, pneumonia, pleurisy, or pericarditis. Tearing pain maximal at onset and radiating to the back suggests aortic dissection. Burning retrosternal pain after meals or lying flat suggests reflux, but reflux-like symptoms do not exclude ACS. Pain reproducible by palpation or movement supports a musculoskeletal cause, but reproducibility alone should not end the assessment in high-risk patients.
+
+IMPORTANT RISK FACTORS:
+For ACS, ask about age, smoking, hypertension, diabetes, dyslipidaemia, chronic kidney disease, previous coronary disease, family history of premature coronary disease, and cocaine/stimulant use. For PE, ask about recent surgery, immobility, cancer, pregnancy/postpartum state, oestrogen therapy, previous VTE, thrombophilia, and unilateral leg symptoms. For aortic dissection, ask about hypertension, connective tissue disease, bicuspid aortic valve, known aneurysm, pregnancy, trauma, and cocaine use.
+
+INITIAL ASSESSMENT:
+Use ABCDE. Check airway, work of breathing, oxygen saturation, pulse, blood pressure in both arms when dissection is possible, temperature, capillary refill, and mental state. Attach cardiac monitoring, obtain IV access, and perform a 12-lead ECG within 10 minutes for possible cardiac chest pain. Give oxygen only if hypoxic or in respiratory distress. Treat shock, severe hypoxia, arrhythmia, or reduced consciousness as emergencies requiring senior help.
+
+DIFFERENTIAL DIAGNOSIS:
+Cardiac causes include ACS, pericarditis, myocarditis, aortic stenosis, arrhythmia, and heart failure. Vascular causes include aortic dissection and ruptured thoracic aneurysm. Pulmonary causes include PE, pneumothorax, pneumonia, pleurisy, and pulmonary hypertension. Gastrointestinal causes include reflux, oesophageal spasm, oesophageal rupture, peptic ulcer disease, pancreatitis, and biliary disease. Musculoskeletal causes include costochondritis, rib fracture, muscle strain, and herpes zoster before rash. Psychological causes such as panic attacks are diagnoses of exclusion when dangerous causes have been considered.
+
+INVESTIGATIONS:
+ECG is essential but a normal ECG does not exclude ACS. Repeat ECGs if symptoms continue or evolve. Troponin should be interpreted using local high-sensitivity serial protocols and clinical context. Chest X-ray helps identify pneumothorax, pneumonia, widened mediastinum, heart failure, and alternative diagnoses. Blood tests commonly include FBC, U&E, glucose, CRP, LFTs, coagulation, and group-and-save if a high-risk diagnosis is suspected. D-dimer is only useful for PE or dissection exclusion in selected low-risk patients using validated pathways. CT pulmonary angiography investigates PE; CT aortography investigates dissection; bedside echocardiography can help in shock, tamponade, right heart strain, or severe LV dysfunction.
+
+ACUTE CORONARY SYNDROME:
+ACS includes STEMI, NSTEMI, and unstable angina. STEMI classically shows ST elevation in contiguous leads or equivalent patterns and needs urgent reperfusion. NSTEMI may show ST depression, T-wave inversion, transient ST elevation, or a normal ECG, with troponin rise. Unstable angina has ischaemic symptoms without troponin rise. Initial management includes antiplatelet and anticoagulant strategies according to local protocol, pain control, nitrates if blood pressure allows, high-intensity statin, and early cardiology involvement. Do not delay STEMI reperfusion while waiting for troponin.
+
+PERICARDITIS AND MYOCARDITIS:
+Pericarditis causes sharp pleuritic pain worse lying flat and relieved by sitting forward. ECG may show widespread concave ST elevation and PR depression. A friction rub is specific but often absent. Myocarditis may mimic ACS with chest pain, troponin rise, arrhythmia, or heart failure, often after viral symptoms. Avoid assuming pericarditis until ACS and other dangerous causes are considered.
+
+AORTIC DISSECTION:
+Dissection may cause abrupt severe tearing chest or back pain, syncope, stroke symptoms, pulse deficit, limb ischaemia, acute aortic regurgitation, or shock. Blood pressure difference between arms is classic but insensitive. Type A dissections involve the ascending aorta and are surgical emergencies. Avoid thrombolysis and routine anticoagulation when dissection is suspected.
+
+PULMONARY CAUSES:
+PE commonly causes sudden dyspnoea, pleuritic chest pain, tachycardia, hypoxia, haemoptysis, or syncope. Pneumothorax causes sudden pleuritic pain and breathlessness with reduced breath sounds; tension pneumothorax causes shock and is a clinical diagnosis requiring immediate decompression. Pneumonia causes fever, cough, sputum, pleuritic pain, crackles, bronchial breathing, or dullness to percussion.
+
+MANAGEMENT PRINCIPLES:
+Treat instability first. Use disease-specific pathways for ACS, PE, pneumothorax, sepsis, and dissection. Give analgesia early. Avoid anchoring on benign explanations before ECG, observations, and red flags are reviewed. Reassess after treatment and repeat observations because chest pain syndromes evolve.
+
+RED FLAGS AND SAFETY NOTES:
+Immediate escalation is required for hypotension, syncope, severe dyspnoea, oxygen saturation below target despite oxygen, new neurological deficit, unequal pulses, ST elevation, sustained arrhythmia, haemoptysis with hypoxia, suspected tension pneumothorax, or pain maximal at onset radiating to the back. Medical students should present chest pain using a problem representation: age, risk factors, pain character, ECG/troponin status, stability, and leading dangerous differentials.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT:
+For "how do I approach chest pain?", answer with immediate ABCDE assessment, ECG within 10 minutes when cardiac pain is possible, early troponin strategy, CXR, and parallel consideration of ACS, PE, dissection, pneumothorax, pericarditis, pneumonia, reflux, and musculoskeletal pain. For "what makes ACS likely?", include pressure-like central pain, radiation, autonomic symptoms, risk factors, dynamic ECG changes, and troponin rise, while noting atypical presentations. For "what is pleuritic chest pain?", explain pain worse with inspiration/cough and list PE, pneumothorax, pneumonia, pleurisy, and pericarditis. For "when is chest pain immediately dangerous?", focus on abnormal observations, shock, hypoxia, syncope, neurological signs, ST elevation, tearing back pain, and absent breath sounds.
+
+PRESENTATION TEMPLATE:
+A concise handover should include: patient age and risk factors; onset and character of pain; radiation and associated symptoms; observations and stability; ECG findings; troponin status if available; leading differentials; immediate treatment already given; and the next investigation or escalation step. Example: "A 62-year-old smoker with diabetes has 45 minutes of central crushing chest pain radiating to the left arm, diaphoresis, and anterior ST elevation. He is haemodynamically stable. This is suspected anterior STEMI; I have started monitoring, IV access, analgesia, aspirin according to protocol, and urgent PCI activation."
+
+PITFALLS:
+Do not label chest pain as anxiety before checking ECG and red flags. Do not use a single normal troponin too early after symptom onset to exclude ACS. Do not give thrombolysis for presumed STEMI if aortic dissection is plausible. Do not delay decompression of suspected tension pneumothorax for imaging. Do not assume young age excludes PE, myocarditis, pneumothorax, or stimulant-related ACS.
+
+Sources used: Merck Manual Professional chest pain overview, ESC acute coronary syndrome guidance, ESC pulmonary embolism guidance, NICE chest pain and VTE guidance.

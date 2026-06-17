@@ -1,0 +1,43 @@
+Acute kidney injury (AKI) is an abrupt decline in kidney function causing reduced glomerular filtration, rising creatinine, reduced urine output, or both. It is common in hospital and increases mortality, length of stay, and risk of chronic kidney disease.
+
+DEFINITION: AKI is commonly defined by rise in serum creatinine from baseline or reduced urine output over hours to days. Staging systems such as KDIGO classify severity by creatinine rise and urine output.
+
+CAUSES: Prerenal AKI results from reduced renal perfusion, for example dehydration, bleeding, sepsis, heart failure, cirrhosis, or over-diuresis. Intrinsic renal AKI includes acute tubular injury, glomerulonephritis, interstitial nephritis, vasculitis, rhabdomyolysis, and thrombotic microangiopathy. Postrenal AKI is obstruction, for example prostate enlargement, stones, malignancy, strictures, or blocked catheter.
+
+RISK FACTORS: Older age, chronic kidney disease, diabetes, heart failure, liver disease, sepsis, hypovolaemia, contrast exposure, major surgery, nephrotoxic drugs, and urinary obstruction.
+
+CLINICAL FEATURES: AKI may be asymptomatic. Features include reduced urine output, thirst, dizziness, oedema, dyspnoea, confusion, nausea, pruritus, flank pain, haematuria, rash, fever, hypertension, or hypotension. Uraemic complications include pericarditis, encephalopathy, bleeding tendency, and seizures.
+
+INITIAL ASSESSMENT: ABCDE if unwell. Review fluid status carefully: mucous membranes, JVP, oedema, lung crackles, capillary refill, BP including postural drop, and urine output. Review medications for ACE inhibitors/ARBs, NSAIDs, diuretics, aminoglycosides, vancomycin, contrast, lithium, and other nephrotoxins.
+
+INVESTIGATIONS: Repeat creatinine and U&E including potassium and bicarbonate, FBC, CRP, LFT, glucose, creatine kinase if rhabdomyolysis possible, urinalysis, urine microscopy where available, urine albumin/protein, ECG if hyperkalaemia, renal ultrasound if obstruction suspected or no clear cause, and immunology tests if nephritis suspected.
+
+MANAGEMENT: Treat the cause, optimise fluid balance, stop or adjust nephrotoxic and renally cleared medicines, relieve obstruction, treat sepsis promptly, monitor urine output and daily weights, correct hyperkalaemia/acidosis, and dose-adjust drugs. Give IV crystalloid for hypovolaemia; avoid fluid overload. Insert urinary catheter when accurate output measurement or obstruction management is needed.
+
+DIALYSIS INDICATIONS: Refractory hyperkalaemia, severe acidosis, pulmonary oedema/fluid overload unresponsive to medical treatment, uraemic complications, and some toxin ingestions.
+
+STUDENT DIAGNOSTIC APPROACH: First compare with baseline creatinine. A creatinine that looks only mildly raised may represent severe AKI in a small elderly patient. Ask about urine output, fluid losses, thirst, sepsis, bleeding, heart failure, obstruction symptoms, new drugs, contrast, rash, joint pain, haematuria, and systemic illness. Decide whether the patient is dry, overloaded, obstructed, or intrinsically nephritic.
+
+URINALYSIS CLUES: Blood and protein together suggest glomerulonephritis, especially with hypertension, oedema, or casts. Leukocytes and nitrites suggest UTI but can coexist with other causes. Myoglobin from rhabdomyolysis may cause positive blood on dipstick with few red cells on microscopy. Bland urine may occur in prerenal AKI or obstruction.
+
+HYPERKALAEMIA MANAGEMENT: Check ECG urgently if potassium is high. ECG changes include peaked T waves, PR prolongation, QRS widening, sine wave, bradyarrhythmia, or ventricular arrhythmia. Calcium stabilises the myocardium but does not lower potassium. Insulin/glucose, beta-agonists, bicarbonate in selected acidosis, potassium binders, diuretics, and dialysis remove or shift potassium depending on severity and context.
+
+FLUID ASSESSMENT: Prerenal AKI from hypovolaemia improves with fluid, but heart failure or sepsis-related AKI may worsen if fluids are excessive. Reassess after boluses. Track urine output, daily weight, JVP, oedema, lung crackles, BP, lactate, and creatinine. A catheter can help measurement but increases infection risk, so use only when indicated.
+
+OBSTRUCTION: Suspect postrenal AKI with anuria, lower urinary tract symptoms, suprapubic pain, palpable bladder, prostate disease, pelvic malignancy, stones, bilateral hydronephrosis, or solitary kidney. Bladder scan and catheterisation can be diagnostic and therapeutic for retention. Renal ultrasound looks for hydronephrosis, but early obstruction may not show dilation.
+
+MEDICATION REVIEW: Temporarily stop or adjust nephrotoxins and renally cleared medicines during AKI. Common issues include NSAIDs, ACE inhibitors/ARBs during dehydration or shock, diuretics, metformin, SGLT2 inhibitors, aminoglycosides, vancomycin, lithium, DOACs, opioids, and contrast exposure. Restart important long-term medicines once clinically safe; do not leave beneficial drugs stopped indefinitely without review.
+
+RECOVERY AND FOLLOW-UP: AKI survivors need repeat renal function, medication reconciliation, BP/proteinuria assessment, and CKD risk counselling. Even apparent recovery increases future CKD and cardiovascular risk.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "pre-renal versus intrinsic versus post-renal?", explain perfusion failure, kidney tissue injury, and obstruction. For "what are urgent complications?", list hyperkalaemia, acidosis, pulmonary oedema, uraemic encephalopathy/pericarditis, and toxin accumulation. For "what should I do first?", check volume status, urine output, medications, potassium/ECG, urinalysis, and obstruction risk.
+
+GLOMERULONEPHRITIS CLUES: Haematuria with proteinuria, red cell casts, hypertension, oedema, rash, arthralgia, pulmonary haemorrhage, or rapidly rising creatinine suggests nephritic disease. Causes include IgA nephropathy, post-infectious GN, ANCA vasculitis, anti-GBM disease, lupus nephritis, and infection-related GN. These need urgent nephrology input because immunosuppression or plasma exchange may be time-sensitive.
+
+RHABDOMYOLYSIS: Muscle breakdown releases myoglobin causing AKI. Causes include prolonged immobilisation, seizures, trauma, heat illness, statins, drugs, toxins, and extreme exercise. Clues are muscle pain, weakness, dark urine, high CK, hyperkalaemia, hyperphosphataemia, and hypocalcaemia. Treatment centres on fluids, electrolyte management, and treating the cause.
+
+CONTRAST AND PROCEDURES: Contrast-associated AKI risk is higher with CKD, diabetes, dehydration, heart failure, sepsis, and high contrast load. Avoiding necessary imaging can also harm patients. Optimise hydration, minimise nephrotoxins, and use risk-benefit judgement.
+
+SAFETY NOTES: Hyperkalaemia with ECG changes is an emergency. Refer urgently for rapidly rising creatinine, severe AKI, suspected glomerulonephritis, obstruction in solitary kidney, anuria, pulmonary oedema, or need for renal replacement therapy.
+
+Sources used: KDIGO AKI guidance, NICE AKI guideline, Merck Manual Professional.

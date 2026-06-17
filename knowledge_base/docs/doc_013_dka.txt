@@ -1,0 +1,45 @@
+Diabetic ketoacidosis (DKA) is an acute life-threatening complication of diabetes caused by insulin deficiency and excess counter-regulatory hormones. It produces hyperglycaemia, ketosis, metabolic acidosis, dehydration, and electrolyte disturbance.
+
+WHO GETS DKA: DKA is most common in type 1 diabetes but can occur in type 2 diabetes, especially during severe illness, ketosis-prone diabetes, pregnancy, or with SGLT2 inhibitors. SGLT2 inhibitor-associated DKA may occur with only modest glucose elevation.
+
+TRIGGERS: Missed insulin, new undiagnosed diabetes, infection, myocardial infarction, stroke, pancreatitis, trauma, surgery, pregnancy, steroid use, substance use, insulin pump failure, and dehydration.
+
+CLINICAL FEATURES: Polyuria, polydipsia, weight loss, nausea, vomiting, abdominal pain, weakness, dehydration, tachycardia, hypotension, Kussmaul breathing, fruity ketone breath, drowsiness, confusion, or coma. Abdominal pain can mimic a surgical abdomen.
+
+DIAGNOSIS: DKA is diagnosed by ketonaemia or ketonuria, metabolic acidosis, and usually hyperglycaemia. Typical findings include raised capillary or blood ketones, low venous pH or bicarbonate, high anion gap, hyperglycaemia, dehydration, and total body potassium depletion. Initial serum potassium may be high, normal, or low despite depleted stores.
+
+INITIAL ASSESSMENT: ABCDE, confirm diabetes history and insulin use, look for triggers, assess dehydration and mental state, check capillary glucose and ketones, venous blood gas, U&E, bicarbonate, anion gap, osmolality if available, FBC, CRP, cultures if infection suspected, ECG, pregnancy test where relevant, and cardiac enzymes if indicated.
+
+MANAGEMENT PRINCIPLES: DKA treatment requires IV fluids, fixed-rate IV insulin, potassium replacement guided by serum potassium, glucose-containing fluids once glucose falls while ketosis persists, and treatment of the precipitating cause. Monitor glucose, ketones, venous pH/bicarbonate, potassium, fluid balance, and vital signs frequently. Continue long-acting basal insulin if already prescribed unless contraindicated by local protocol.
+
+FLUIDS AND ELECTROLYTES: Isotonic saline is commonly used initially. Potassium replacement is essential unless potassium is high; insulin must be delayed and senior help obtained if potassium is dangerously low. Avoid overly rapid osmotic shifts, especially in children and young adults.
+
+RESOLUTION: DKA has resolved when ketones clear and acidosis corrects, not simply when glucose normalises. Transition to subcutaneous insulin only when eating/drinking, clinically improved, and overlap with IV insulin is arranged.
+
+COMPLICATIONS: Hypokalaemia, hypoglycaemia, cerebral oedema, pulmonary oedema, acute kidney injury, thrombosis, aspiration, and recurrent DKA.
+
+STUDENT DIAGNOSTIC APPROACH: DKA is a biochemical emergency, so confirm glucose, ketones, and acidosis early. Do not be reassured by moderate glucose if the patient uses an SGLT2 inhibitor, is pregnant, has reduced intake, or has already taken insulin. Ask about insulin omission, pump failure, infection symptoms, chest pain, abdominal pain, vomiting, pregnancy, alcohol, drugs, and recent medication changes.
+
+POTASSIUM PHYSIOLOGY: Total body potassium is depleted from osmotic diuresis and vomiting. Acidosis and insulin deficiency shift potassium out of cells, so serum potassium may initially be normal or high. Once insulin and fluids are given, potassium moves intracellularly and can fall dangerously. This is why potassium monitoring and replacement are central to safe DKA care.
+
+FLUID THINKING: Fluid deficit is often several litres in adults. Initial isotonic fluid restores perfusion and renal ketone clearance. Reassess pulse, BP, capillary refill, urine output, lung crackles, sodium, osmolality, and comorbid heart/renal disease. Children, young adults, pregnancy, kidney failure, and heart failure need particularly careful fluid plans.
+
+INSULIN PRINCIPLES: Fixed-rate IV insulin suppresses ketogenesis and clears acidosis. Glucose often falls before ketones clear, so dextrose-containing fluid is added to allow insulin to continue safely. Stopping insulin just because glucose normalises can leave ketosis untreated. Basal insulin overlap prevents rebound ketoacidosis.
+
+SEARCH FOR TRIGGERS: Infection is common but not the only cause. Check urine, chest, skin, lines, abdomen, and dental sources. Consider MI, stroke, pancreatitis, pulmonary embolism, trauma, pregnancy, and psychosocial barriers. Recurrent DKA often reflects access, education, mental health, eating disorder, financial, or safeguarding issues rather than simple "non-compliance."
+
+MONITORING: Frequent bedside glucose and ketones, venous pH/bicarbonate, potassium, sodium, renal function, fluid balance, neurological status, and vital signs are required. An improving patient should have falling ketones, closing anion gap, improving bicarbonate/pH, stable potassium, and restored hydration.
+
+CEREBRAL OEDEMA WARNING: Headache, irritability, bradycardia, rising blood pressure, reduced consciousness, seizures, or abnormal pupils during treatment are concerning, especially in children and young people. Urgent senior/critical care help is needed.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "what defines DKA?", answer ketones plus metabolic acidosis, usually with hyperglycaemia. For "why give dextrose when glucose is high?", explain glucose may normalise before ketosis clears, so dextrose allows insulin to continue. For "why is potassium dangerous?", explain total body depletion and intracellular shift after insulin. For "when is DKA resolved?", answer ketone clearance and acidosis correction, not just normal glucose.
+
+EUGLYCAEMIC DKA: SGLT2 inhibitors, pregnancy, fasting, alcohol, and partial insulin treatment can produce DKA with glucose lower than expected. Symptoms and ketones are key. This diagnosis is often missed if clinicians only screen for very high glucose. Stop the SGLT2 inhibitor and manage as DKA with specialist advice.
+
+ABDOMINAL PAIN AND PANCREATITIS: DKA itself can cause abdominal pain and vomiting. Pancreatitis can trigger DKA and may be suspected with severe persistent epigastric pain, raised lipase/amylase, alcohol use, gallstones, or hypertriglyceridaemia. Avoid premature surgical conclusions until acidosis and metabolic disturbance are considered.
+
+DISCHARGE PREVENTION: Before discharge, identify the trigger, review insulin technique and supplies, provide sick-day rules, ensure ketone testing access where appropriate, arrange diabetes follow-up, and address psychosocial barriers. Recurrent DKA should trigger supportive problem-solving, not blame.
+
+SAFETY NOTES: DKA in pregnancy, children, severe acidosis, coma, shock, renal failure, or suspected SGLT2-related euglycaemic DKA needs urgent senior input.
+
+Sources used: ADA Standards of Care, Joint British Diabetes Societies DKA guidance, Merck Manual Professional.

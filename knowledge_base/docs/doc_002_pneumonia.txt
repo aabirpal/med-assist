@@ -1,0 +1,51 @@
+Pneumonia - Community-Acquired and Hospital-Acquired
+
+DEFINITION AND SCOPE:
+Pneumonia is infection of the lung parenchyma causing inflammation, alveolar filling, and impaired gas exchange. It may be community-acquired, hospital-acquired, ventilator-associated, aspiration-related, viral, bacterial, or mixed. The key student tasks are to recognise pneumonia, assess severity, start timely treatment, identify complications, and avoid missing sepsis or respiratory failure.
+
+CLASSIFICATION:
+Community-acquired pneumonia (CAP) develops outside hospital or early after admission. Hospital-acquired pneumonia (HAP) develops 48 hours or more after hospital admission and has higher risk of resistant organisms. Ventilator-associated pneumonia occurs in mechanically ventilated patients. Aspiration pneumonia follows inhalation of oropharyngeal or gastric contents, often in reduced consciousness, dysphagia, seizures, stroke, alcohol intoxication, or neuromuscular disease.
+
+COMMON CAUSES:
+Streptococcus pneumoniae is a classic bacterial cause of CAP. Other causes include Haemophilus influenzae, Moraxella catarrhalis, Staphylococcus aureus, respiratory viruses, Mycoplasma pneumoniae, Chlamydophila pneumoniae, and Legionella pneumophila. HAP is more likely to involve Gram-negative organisms, Staphylococcus aureus including MRSA in some settings, and resistant bacteria depending on local epidemiology.
+
+KEY CLINICAL FEATURES:
+Typical CAP causes fever, rigors, productive cough, pleuritic chest pain, dyspnoea, malaise, and anorexia. Sputum may be purulent, rusty, or blood-streaked. Examination may show tachypnoea, tachycardia, hypoxia, crackles, bronchial breathing, dullness to percussion, increased vocal resonance, or signs of pleural effusion. Older adults may present with confusion, falls, reduced intake, or functional decline rather than fever.
+
+ATYPICAL AND VIRAL FEATURES:
+Atypical pathogens may cause dry cough, headache, myalgia, diarrhoea, rash, or a slower onset. Legionella is associated with travel, hotel or spa exposure, hyponatraemia, diarrhoea, confusion, and abnormal liver tests. Viral pneumonia may cause prominent myalgia, wheeze, bilateral signs, or outbreak exposure. Viral infection can be complicated by secondary bacterial pneumonia.
+
+DIFFERENTIAL DIAGNOSIS:
+Consider pulmonary embolism, heart failure, COPD or asthma exacerbation, tuberculosis, lung cancer, pneumothorax, bronchiectasis, aspiration pneumonitis, interstitial lung disease, pulmonary oedema, and COVID-19 or influenza. Persistent focal consolidation, haemoptysis, weight loss, or recurrent pneumonia in the same lobe should raise concern for malignancy or obstruction.
+
+INITIAL ASSESSMENT:
+Use ABCDE in any unwell patient. Record respiratory rate, oxygen saturation, blood pressure, pulse, temperature, mental state, hydration, and urine output. Identify sepsis, shock, respiratory failure, immunosuppression, pregnancy, frailty, and major comorbidities. Give oxygen if hypoxic and use controlled oxygen targets in patients at risk of hypercapnic respiratory failure.
+
+INVESTIGATIONS:
+Chest X-ray usually shows lobar, segmental, patchy, or interstitial infiltrates, but early CXR can be normal. FBC may show neutrophilia, lymphopenia, or leukopenia in severe disease. CRP can support diagnosis and monitor response but is non-specific. U&E assesses renal function, dehydration, and urea for severity scoring. Blood cultures are useful in moderate to severe disease before antibiotics if this does not delay treatment. Sputum culture is useful when productive, severe, recurrent, immunocompromised, or treatment failure occurs. Consider viral PCR, pneumococcal or Legionella urinary antigen, ABG/VBG, lactate, and CT chest in selected cases.
+
+SEVERITY ASSESSMENT:
+CURB-65 gives one point each for confusion, urea above 7 mmol/L, respiratory rate 30 or more, low blood pressure, and age 65 or more. Scores 0-1 are usually low severity, 2 moderate, and 3-5 high severity, but clinical judgement matters. Hypoxia, bilateral or multilobar disease, sepsis, inability to take oral therapy, social vulnerability, pregnancy, immunosuppression, and decompensated comorbidity can justify admission regardless of score.
+
+MANAGEMENT:
+Start antibiotics according to local guideline, severity, allergy, pregnancy status, renal function, and resistance patterns. Mild CAP is often treated with oral therapy; moderate or severe CAP may need broader or IV therapy and atypical cover. Supportive care includes oxygen, fluids if dehydrated, antipyretics, analgesia for pleuritic pain, bronchodilators if wheezy, VTE prevention for admitted patients, and early mobilisation. Review response at 48-72 hours.
+
+COMPLICATIONS:
+Complications include parapneumonic effusion, empyema, lung abscess, sepsis, acute respiratory distress syndrome, respiratory failure, delirium, dehydration, acute kidney injury, and decompensation of COPD, asthma, heart failure, or diabetes. Empyema is suggested by persistent fever, pleuritic pain, large effusion, or failure to improve and usually requires drainage.
+
+FOLLOW-UP AND SAFETY NOTES:
+Clinical improvement often precedes radiographic resolution. Repeat chest imaging is considered for persistent symptoms, recurrent pneumonia, smokers, older adults, or concern for malignancy. Escalate urgently for severe hypoxia, exhaustion, confusion, hypotension, rising lactate, cyanosis, silent chest, or failure to improve despite appropriate antibiotics.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT:
+For "how do I diagnose pneumonia?", answer with compatible symptoms and signs, CXR evidence where available, inflammatory markers, oxygen assessment, and microbiology in moderate/severe or atypical disease. For "how do I know if pneumonia is severe?", include respiratory rate, oxygen saturation, blood pressure, confusion, urea, multilobar disease, sepsis, comorbidities, and social ability to manage at home. For "what organisms cause pneumonia?", distinguish typical bacterial, atypical, viral, aspiration-related, and hospital-acquired organisms. For "why did this patient not improve?", consider wrong diagnosis, resistant organism, empyema, abscess, obstruction, aspiration, immunosuppression, PE, heart failure, or poor source control.
+
+ANTIBIOTIC REASONING:
+Empiric antibiotic choice is based on setting, severity, allergy, renal function, pregnancy, aspiration risk, immune status, prior cultures, and local resistance. Mild CAP can often be treated orally if the patient is stable and can absorb medication. Severe CAP needs prompt broader therapy, cultures, lactate assessment, and possible critical care review. Atypical cover is considered when there is dry cough, extrapulmonary symptoms, outbreak/travel exposure, or severe CAP. De-escalate when cultures, viral testing, and clinical response clarify the cause.
+
+WARD MONITORING:
+Track respiratory rate, oxygen requirement, temperature, pulse, BP, mental state, oral intake, urine output, and pain. Failure to improve after 48-72 hours should trigger reassessment rather than automatic antibiotic escalation. Re-examine for effusion, empyema, wheeze, heart failure, and signs of sepsis. Check whether antibiotics were given, absorbed, and appropriate for renal function and allergy history.
+
+PITFALLS:
+Do not rely on fever alone; older or immunocompromised patients may be afebrile. Do not dismiss confusion as dementia without considering hypoxia or sepsis. Do not diagnose pneumonia from CXR alone if symptoms fit heart failure or PE better. Do not forget TB, cancer, or aspiration in recurrent or non-resolving consolidation.
+
+Sources used: NICE pneumonia guidance, Merck Manual Professional pneumonia overview, WHO respiratory infection resources, British Thoracic Society educational material.

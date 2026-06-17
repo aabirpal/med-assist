@@ -1,0 +1,45 @@
+Atrial fibrillation (AF) is a supraventricular tachyarrhythmia with disorganised atrial electrical activity and ineffective atrial contraction. It causes an irregularly irregular pulse and increases risk of stroke, heart failure, and mortality.
+
+CLASSIFICATION: First-diagnosed AF is newly recognised. Paroxysmal AF terminates spontaneously or with intervention within 7 days. Persistent AF lasts more than 7 days. Long-standing persistent AF lasts more than 12 months. Permanent AF is accepted as ongoing when rhythm control is not pursued.
+
+RISK FACTORS AND CAUSES: Age, hypertension, ischaemic heart disease, heart failure, valvular disease, obesity, diabetes, sleep apnoea, hyperthyroidism, alcohol, sepsis, pneumonia, pulmonary embolism, post-operative state, chronic kidney disease, and cardiomyopathy.
+
+CLINICAL FEATURES: Palpitations, breathlessness, fatigue, chest discomfort, dizziness, syncope, reduced exercise tolerance, or decompensated heart failure. Some patients are asymptomatic and detected by pulse check or ECG.
+
+DIAGNOSIS: AF is confirmed on ECG by irregularly irregular RR intervals with no consistent P waves. Assess haemodynamic stability, symptom duration, triggers, comorbidities, and stroke/bleeding risk. Tests commonly include FBC, U&E/eGFR, LFT, thyroid function, glucose/HbA1c, lipids, magnesium if relevant, chest X-ray if pulmonary disease suspected, and echocardiography to assess structure, valves, and ventricular function.
+
+ACUTE MANAGEMENT: If unstable with shock, syncope, myocardial ischaemia, or pulmonary oedema, urgent synchronised electrical cardioversion is needed. Stable AF management focuses on rate control, rhythm control in selected patients, anticoagulation decisions, and treating triggers.
+
+RATE CONTROL: Beta-blockers or rate-limiting calcium-channel blockers are common first-line options. Digoxin may help sedentary patients or heart failure but is less effective during exertion. Avoid verapamil/diltiazem in significant HFrEF.
+
+RHYTHM CONTROL: Cardioversion or antiarrhythmic therapy may be considered for recent-onset AF, ongoing symptoms despite rate control, younger patients, tachycardia-induced cardiomyopathy, or patient preference. Anticoagulation around cardioversion depends on duration, stroke risk, and imaging strategy.
+
+STROKE PREVENTION: Use CHA2DS2-VASc to estimate stroke risk and guide anticoagulation. DOACs are commonly preferred over warfarin for non-valvular AF unless contraindicated. Warfarin is used for mechanical valves and some moderate-to-severe mitral stenosis scenarios. Bleeding risk scores help identify modifiable bleeding risks but should not be used alone to deny anticoagulation.
+
+COMPLICATIONS: Ischaemic stroke, systemic embolism, heart failure, tachycardia-induced cardiomyopathy, falls/syncope, and medication adverse effects.
+
+STUDENT DIAGNOSTIC APPROACH: When you find an irregularly irregular pulse, confirm with ECG and decide whether the patient is unstable. Then ask three questions: What triggered it? Does the rate need control? Does the patient need stroke prevention? Look for sepsis, pneumonia, PE, ACS, thyrotoxicosis, alcohol binge, surgery, electrolyte disturbance, and heart failure.
+
+ECG DIFFERENTIAL: AF has no consistent P waves and irregularly irregular rhythm. Atrial flutter may have sawtooth flutter waves and can conduct regularly or irregularly. Multifocal atrial tachycardia is irregular with multiple P-wave morphologies and is common in severe lung disease. Irregular broad-complex tachycardia could be AF with bundle branch block, AF with pre-excitation, or ventricular arrhythmia; get senior help.
+
+RATE VERSUS RHYTHM: Rate control accepts AF and controls ventricular response. Rhythm control attempts sinus rhythm using cardioversion, antiarrhythmics, or ablation. Rhythm control is favoured when AF is new, highly symptomatic, causing heart failure, difficult to rate-control, or patient preference supports it. Long-standing AF with minimal symptoms may be managed with rate control.
+
+ANTICOAGULATION DETAILS: CHA2DS2-VASc estimates stroke risk. Bleeding risk tools identify modifiable risks such as uncontrolled BP, alcohol excess, interacting drugs, labile INR, renal/liver disease, anaemia, and previous bleeding. Aspirin is not an adequate substitute for anticoagulation for AF stroke prevention. Renal function affects DOAC selection and dose.
+
+CARDIOVERSION SAFETY: If AF duration is more than 48 hours or unknown, cardioversion can dislodge atrial thrombus unless anticoagulation or transoesophageal echo strategy is used. Emergency cardioversion is still performed when unstable, with anticoagulation decisions managed urgently. After cardioversion, anticoagulation often continues for a period and longer if stroke risk remains elevated.
+
+AF WITH HEART FAILURE: AF can cause or worsen heart failure by loss of atrial kick and rapid ventricular rate. Conversely, heart failure stretches atria and triggers AF. Treat congestion, rate, rhythm considerations, and anticoagulation together. Avoid rate-limiting calcium-channel blockers in significant HFrEF.
+
+FOLLOW-UP: Review symptoms, rate, BP, renal function, anticoagulant adherence, bleeding, alcohol, sleep apnoea, weight, exercise, and comorbidities. Explain stroke symptoms and bleeding safety-netting.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "what does AF look like on ECG?", answer irregularly irregular rhythm with no consistent P waves. For "what causes AF?", include age, hypertension, heart disease, valve disease, hyperthyroidism, alcohol, infection, PE, surgery, and sleep apnoea. For "rate or rhythm control?", explain stability, symptoms, duration, heart failure, and patient factors. For "stroke prevention?", use CHA2DS2-VASc and anticoagulation unless contraindicated.
+
+CHA2DS2-VASc COMPONENTS: Congestive heart failure scores 1, hypertension 1, age 75 or older 2, diabetes 1, prior stroke/TIA/thromboembolism 2, vascular disease 1, age 65-74 scores 1, and female sex category scores 1 in the context of other risks. It estimates thromboembolic risk, not bleeding risk.
+
+BLEEDING MODIFICATION: Reduce bleeding risk by controlling BP, avoiding unnecessary NSAIDs/antiplatelets, reducing alcohol, treating anaemia, monitoring renal function, choosing correct DOAC dose, and reviewing falls or frailty realistically. Falls alone are rarely an automatic reason to avoid anticoagulation, but individual judgement matters.
+
+PITFALLS: Do not use aspirin for AF stroke prevention. Do not give AV nodal blockers alone in AF with WPW/pre-excitation. Do not cardiovert stable AF of unknown duration without thinking about thrombus risk. Do not ignore new AF as "just fast"; it may be the presenting sign of sepsis, PE, ACS, or thyrotoxicosis.
+
+SAFETY NOTES: AF with pre-excitation, severe hypotension, chest pain, acute heart failure, or very rapid ventricular response requires urgent senior input. Check thyroid disease and sepsis as reversible triggers.
+
+Sources used: ESC atrial fibrillation guideline, NICE AF guidance, Merck Manual Professional.

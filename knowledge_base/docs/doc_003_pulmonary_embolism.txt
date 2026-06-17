@@ -1,0 +1,39 @@
+Pulmonary embolism (PE) is obstruction of the pulmonary arteries, usually by thrombus from a deep vein thrombosis. It ranges from small peripheral emboli causing pleuritic pain to massive PE causing shock, right ventricular failure, and death.
+
+KEY RISK FACTORS: Recent surgery or trauma, immobility, hospital admission, pregnancy or postpartum state, oestrogen therapy, active cancer, previous VTE, thrombophilia, obesity, long travel, central venous catheters, and acute medical illness.
+
+CLINICAL FEATURES: Sudden dyspnoea, pleuritic chest pain, tachypnoea, tachycardia, cough, haemoptysis, syncope, anxiety, or unexplained hypoxia. Massive PE may present with hypotension, raised JVP, cyanosis, obstructive shock, or cardiac arrest. Look for DVT signs: unilateral calf swelling, tenderness, warmth, erythema, and pitting oedema.
+
+DIFFERENTIAL DIAGNOSIS: Acute coronary syndrome, pneumonia, pneumothorax, asthma or COPD exacerbation, pericarditis, aortic dissection, heart failure, and musculoskeletal chest pain.
+
+INITIAL ASSESSMENT: Use ABCDE. Give oxygen if hypoxic, establish IV access, monitor ECG, blood pressure, oxygen saturation, and obtain senior help early if unstable. In haemodynamic instability, PE is a time-critical diagnosis.
+
+INVESTIGATIONS: ECG may show sinus tachycardia, right heart strain, T-wave inversion in V1-V4, right axis deviation, RBBB, or rarely S1Q3T3. Chest X-ray is often normal but helps exclude pneumonia or pneumothorax. ABG may show hypoxaemia and respiratory alkalosis but can be normal. D-dimer is useful only when pre-test probability is low or intermediate; a negative result can exclude PE in selected patients, but a positive result is non-specific. CTPA is the usual first-line imaging test. V/Q scan is useful when CTPA is contraindicated, for example severe contrast allergy or some pregnancy scenarios. Echocardiography may show right ventricular dilation or strain in massive PE.
+
+RISK STRATIFICATION: Estimate clinical probability using Wells PE or Geneva score. Assess severity using haemodynamic status, oxygen requirement, right ventricular strain, troponin/BNP, and clinical scores such as PESI or sPESI.
+
+MANAGEMENT: If PE is likely and bleeding risk is acceptable, start anticoagulation while awaiting imaging. Options include LMWH, fondaparinux, unfractionated heparin, or a DOAC depending on renal function, pregnancy, cancer, severity, and local policy. Confirmed PE usually requires at least 3 months anticoagulation. Haemodynamically unstable PE may need thrombolysis, catheter-directed therapy, or surgical embolectomy. Inferior vena cava filters are reserved for selected patients with acute VTE and an absolute contraindication to anticoagulation.
+
+COMPLICATIONS: Recurrent VTE, chronic thromboembolic pulmonary hypertension, bleeding from anticoagulation, and death.
+
+STUDENT DIAGNOSTIC APPROACH: The key decision is whether PE is likely enough to image or treat empirically. Start with clinical probability, not D-dimer. In a low-probability patient who meets a validated rule-out pathway, PE may be excluded without imaging. In low or intermediate probability, D-dimer can be used because it is sensitive but non-specific. D-dimer is often raised in infection, pregnancy, cancer, trauma, recent surgery, and older age. In high-probability PE, a negative D-dimer is not enough; proceed to imaging or specialist advice. If the patient is unstable and PE is strongly suspected, bedside echo showing acute right ventricular strain can support emergency treatment while definitive imaging is arranged.
+
+WELLS PE SCORE POINTS: Clinical signs of DVT score 3. PE as the most likely diagnosis scores 3. Heart rate above 100 scores 1.5. Immobilisation for at least 3 days or surgery in the previous 4 weeks scores 1.5. Previous DVT or PE scores 1.5. Haemoptysis scores 1. Active malignancy scores 1. A score above 4 is often treated as PE likely in the simplified two-level model. The score supports judgement but does not replace it.
+
+IMAGING DETAILS: CTPA directly visualises thrombus and can show alternative diagnoses, but it uses iodinated contrast and radiation. V/Q scanning is useful when the chest X-ray is normal and CTPA is undesirable. Compression ultrasound of the legs can confirm DVT; in a patient with suspected PE and contraindication to chest imaging, finding proximal DVT may be enough to justify anticoagulation. Chest X-ray is not diagnostic for PE but helps exclude pneumonia, pneumothorax, heart failure, and malignancy.
+
+ANTICOAGULATION CHOICES: DOACs are convenient for many stable non-pregnant adults. LMWH is commonly used in pregnancy, some cancer patients, severe acute illness, or when oral therapy is unsuitable. Unfractionated heparin is useful when rapid reversal may be needed, renal failure is severe, thrombolysis might be required, or the patient is unstable. Warfarin requires bridging and INR monitoring and is still used in selected patients such as some antiphospholipid syndrome cases.
+
+SPECIAL GROUPS: Pregnancy requires careful imaging and anticoagulation decisions; LMWH is usually preferred and warfarin/DOACs are generally avoided during pregnancy. Cancer-associated thrombosis has higher recurrence and bleeding risks. Renal impairment affects drug choice and dose. Massive PE with shock is a critical care emergency where reperfusion therapy may be lifesaving.
+
+DISCHARGE AND FOLLOW-UP: Confirm anticoagulant dose, duration, bleeding counselling, interactions, renal monitoring, and return precautions. Explain symptoms of recurrence and bleeding. Follow-up should assess provoking factors, cancer red flags, thrombophilia only when appropriate, persistent dyspnoea, and need for extended anticoagulation.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "how do I rule out PE?", explain clinical probability first, then D-dimer only in selected low/intermediate probability patients, and imaging for likely PE. For "what does a positive D-dimer mean?", state that it supports further testing but is not diagnostic. For "why is massive PE dangerous?", explain acute right ventricular pressure overload, reduced left ventricular filling, obstructive shock, and cardiac arrest risk. For "what is the first treatment?", answer anticoagulation if likely/confirmed and bleeding risk is acceptable, with reperfusion therapy for unstable massive PE.
+
+ECG, CXR, AND BLOOD TEST PITFALLS: Sinus tachycardia is common but non-specific. S1Q3T3 is exam-famous but uncommon and insensitive. Troponin and BNP may rise from right ventricular strain and help severity assessment, but they do not diagnose PE alone. CXR can be normal in PE and is mainly useful for alternatives and V/Q scan interpretation. ABG may show hypoxaemia and respiratory alkalosis, but normal gases do not exclude PE.
+
+BLEEDING RISK BEFORE ANTICOAGULATION: Ask about active bleeding, recent intracranial haemorrhage, major surgery, severe thrombocytopenia, known bleeding disorder, uncontrolled hypertension, liver disease, renal failure, pregnancy, falls risk, and interacting medicines. Anticoagulation decisions balance PE severity against bleeding risk; uncertainty should prompt senior input rather than inaction.
+
+SAFETY NOTES: Do not rely on a normal oxygen saturation, ECG, or chest X-ray to exclude PE. Escalate immediately for hypotension, syncope, severe hypoxia, or signs of right heart failure.
+
+Sources used: Merck Manual Professional, ESC pulmonary embolism guidance, NICE VTE guidance, MedlinePlus.

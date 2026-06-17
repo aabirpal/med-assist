@@ -1,0 +1,43 @@
+Chronic obstructive pulmonary disease (COPD) is a common, preventable, treatable lung disease characterised by persistent respiratory symptoms and airflow limitation that is not fully reversible. It includes chronic bronchitis, emphysema, or overlapping features.
+
+RISK FACTORS: Cigarette smoking is the major risk factor. Others include biomass fuel exposure, occupational dusts or fumes, air pollution, childhood lung disease, recurrent infections, low socioeconomic exposures, and alpha-1 antitrypsin deficiency.
+
+CLINICAL FEATURES: Chronic progressive dyspnoea, cough, sputum production, wheeze, chest tightness, reduced exercise tolerance, frequent winter bronchitis, weight loss in advanced disease, and fatigue. Examination may show prolonged expiration, wheeze, reduced breath sounds, barrel chest, pursed-lip breathing, accessory muscle use, cyanosis, cachexia, peripheral oedema, raised JVP, or signs of cor pulmonale.
+
+DIAGNOSIS: COPD is suspected clinically and confirmed by spirometry showing persistent airflow obstruction after bronchodilator, commonly FEV1/FVC below 0.70 or below the lower limit of normal. Assess symptom burden, exacerbation history, oxygen saturation, BMI, smoking status, inhaler technique, comorbidities, and vaccination status.
+
+INVESTIGATIONS: Spirometry, chest X-ray to exclude alternatives, FBC for anaemia or polycythaemia, alpha-1 antitrypsin testing in early-onset or family history, ECG/echo if pulmonary hypertension or heart failure suspected, and CT chest in selected cases. ABG is needed if oxygen saturation is low or hypercapnia is suspected.
+
+STABLE MANAGEMENT: Smoking cessation is the most important intervention. Offer vaccinations, pulmonary rehabilitation, exercise, nutrition support, inhaler technique review, and self-management plans. Bronchodilator therapy uses short-acting relievers and long-acting bronchodilators such as LABA and LAMA. Inhaled corticosteroids are used in selected patients with frequent exacerbations, eosinophilic inflammation, or asthma overlap, balancing pneumonia risk. Long-term oxygen therapy is for chronic severe hypoxaemia meeting criteria.
+
+ACUTE EXACERBATION: Worsening dyspnoea, cough, sputum volume or purulence beyond usual variation. Triggers include viral infection, bacterial infection, pollution, PE, pneumothorax, heart failure, and poor adherence. Assess severity, oxygen saturation, work of breathing, mental state, and need for admission.
+
+EXACERBATION MANAGEMENT: Controlled oxygen targeting saturations often 88-92% if risk of hypercapnic respiratory failure, nebulised or inhaled bronchodilators, systemic corticosteroids, antibiotics if sputum purulence or bacterial infection likely, and non-invasive ventilation for respiratory acidosis despite initial therapy.
+
+COMPLICATIONS: Respiratory failure, pulmonary hypertension, cor pulmonale, pneumonia, pneumothorax, weight loss, anxiety/depression, and frequent admissions.
+
+STUDENT DIAGNOSTIC APPROACH: COPD is suspected from chronic symptoms plus exposure history and confirmed by spirometry. Do not diagnose COPD from smoking history alone. Ask about age at onset, pack-years, biomass exposure, occupational dust, childhood asthma, atopy, recurrent infections, family history, daily sputum, exacerbation frequency, hospital admissions, ICU/NIV history, exercise tolerance, weight loss, and inhaler use.
+
+DIFFERENTIAL DIAGNOSIS: Asthma causes variable symptoms and reversible airflow obstruction, often with atopy or childhood onset. Heart failure causes orthopnoea, oedema, raised JVP, and pulmonary congestion. Bronchiectasis causes chronic purulent sputum and recurrent infections. Lung cancer may cause weight loss, haemoptysis, focal signs, or non-resolving pneumonia. TB, interstitial lung disease, anaemia, obesity, deconditioning, and anxiety can also cause breathlessness.
+
+SPIROMETRY INTERPRETATION: FEV1 measures forced expiratory volume in 1 second. FVC measures forced vital capacity. A reduced FEV1/FVC ratio after bronchodilator supports persistent obstruction. FEV1 percentage predicted grades airflow limitation, but symptoms and exacerbations often matter more for treatment decisions. Poor technique can invalidate results, so quality matters.
+
+EXACERBATION ASSESSMENT: Determine whether this is a true COPD exacerbation or another diagnosis. PE, pneumothorax, pneumonia, heart failure, ACS, arrhythmia, and sedative/opioid excess can mimic or trigger deterioration. Check sputum change, fever, pleuritic pain, chest asymmetry, leg swelling, ECG changes, and response to bronchodilators.
+
+OXYGEN AND CO2 RETENTION: Some COPD patients rely partly on hypoxic drive and have ventilation-perfusion changes that worsen with excessive oxygen. Controlled oxygen targeting 88-92% is commonly used when hypercapnic respiratory failure risk exists until blood gases guide therapy. If CO2 is high with acidosis, NIV can reduce intubation and mortality when used appropriately.
+
+INHALER PRACTICE: Inhaler choice should account for technique, inspiratory flow, cognition, dexterity, cost, and preference. Demonstrate and check technique repeatedly. A perfectly chosen drug delivered poorly is ineffective. Spacers improve delivery for metered-dose inhalers and are useful during exacerbations.
+
+PREVENTION AND LONG-TERM CARE: Pulmonary rehabilitation improves breathlessness, exercise capacity, and quality of life. Vaccination reduces infectious triggers. Long-term macrolides, mucolytics, roflumilast, or home NIV are specialist options for selected frequent exacerbators. Palliative care principles help advanced COPD with refractory breathlessness, anxiety, and planning.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "how is COPD diagnosed?", answer chronic symptoms/exposure plus post-bronchodilator airflow obstruction on spirometry. For "what is an exacerbation?", explain acute worsening of dyspnoea, cough, or sputum beyond baseline. For "why target oxygen 88-92%?", explain risk of hypercapnic respiratory failure in susceptible patients. For "what improves survival?", include smoking cessation and long-term oxygen in selected chronically hypoxaemic patients, plus evidence-based care of comorbidities.
+
+PHENOTYPES AND COMORBIDITIES: Chronic bronchitis phenotype has chronic productive cough. Emphysema phenotype has dyspnoea, hyperinflation, low BMI, and reduced gas transfer. Many patients have mixed features. Comorbidities include cardiovascular disease, osteoporosis, anxiety, depression, lung cancer, metabolic syndrome, sleep apnoea, and frailty.
+
+ANTIBIOTICS IN EXACERBATION: Antibiotics are more useful when sputum becomes purulent, volume increases, dyspnoea worsens, pneumonia is suspected, or ventilatory support is needed. Choice depends on local resistance and prior cultures. Not every exacerbation is bacterial; viral infection and pollution are common triggers.
+
+PITFALLS: Wheeze is not always asthma. A normal CXR does not exclude COPD. Do not forget alpha-1 antitrypsin deficiency in younger patients, minimal smoking history, basilar emphysema, or family history. Do not treat all breathlessness in COPD as COPD; PE and heart failure are common dangerous mimics.
+
+SAFETY NOTES: Excess oxygen can worsen hypercapnia in susceptible COPD patients. Drowsiness, severe acidosis, silent chest, cyanosis, exhaustion, or haemodynamic instability requires urgent escalation.
+
+Sources used: GOLD COPD strategy, NICE COPD guidance, Merck Manual Professional.

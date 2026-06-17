@@ -1,0 +1,39 @@
+Hypertension is persistently elevated arterial blood pressure. It is a major modifiable risk factor for stroke, myocardial infarction, heart failure, chronic kidney disease, peripheral arterial disease, retinopathy, and premature death.
+
+DEFINITION: Diagnostic thresholds vary by guideline. A common international threshold for clinic hypertension is blood pressure at or above 140/90 mmHg, confirmed on repeat measurement or with ambulatory/home readings. Some systems define lower risk categories such as stage 1 hypertension from 130/80 mmHg. Always interpret values using local guidance and overall cardiovascular risk.
+
+TYPES: Primary hypertension accounts for most cases and results from genetic, environmental, renal, vascular, and neurohormonal factors. Secondary hypertension should be considered in young patients, resistant hypertension, abrupt onset, severe hypertension, hypokalaemia, renal impairment, episodic symptoms, or suggestive examination findings.
+
+SECONDARY CAUSES: Chronic kidney disease, renovascular disease, primary hyperaldosteronism, obstructive sleep apnoea, phaeochromocytoma, Cushing syndrome, thyroid disease, coarctation of the aorta, pregnancy-related hypertension, alcohol, NSAIDs, corticosteroids, stimulants, decongestants, oral contraceptives, and some herbal or recreational drugs.
+
+CLINICAL FEATURES: Hypertension is usually asymptomatic. Severe hypertension may cause headache, visual disturbance, chest pain, dyspnoea, confusion, focal neurological symptoms, or reduced urine output if target-organ damage is present.
+
+MEASUREMENT: Use correct cuff size, seated rest, arm supported at heart level, and repeated readings. Check both arms initially. Confirm diagnosis with ambulatory blood pressure monitoring or home monitoring where available. Assess postural hypotension in older adults, diabetes, autonomic symptoms, or falls.
+
+INITIAL ASSESSMENT: History for cardiovascular risk and secondary causes; examination including BMI, pulse, cardiac, vascular, abdominal, and fundoscopy if severe. Investigations include U&E/creatinine/eGFR, electrolytes, urine albumin or protein, HbA1c or glucose, lipid profile, ECG, and fundoscopy or retinal assessment where indicated.
+
+MANAGEMENT: Lifestyle measures include salt reduction, weight loss if overweight, regular aerobic and resistance exercise, reduced alcohol, smoking cessation, healthy diet rich in fruit and vegetables, and sleep apnoea management. Drug treatment is based on BP level, age, comorbidity, pregnancy status, ethnicity, and cardiovascular risk. Common first-line classes include ACE inhibitors or ARBs, calcium-channel blockers, and thiazide-like diuretics. Combination therapy is often needed.
+
+HYPERTENSIVE EMERGENCY: Severe BP elevation with acute target-organ damage, such as encephalopathy, stroke, acute coronary syndrome, pulmonary oedema, aortic dissection, acute kidney injury, or eclampsia, requires urgent hospital management and controlled BP reduction.
+
+STUDENT DIAGNOSTIC APPROACH: First decide whether the reading is real, persistent, and dangerous. Repeat after rest, check cuff size, measure both arms at least once, and ask about pain, anxiety, caffeine, nicotine, stimulants, decongestants, NSAIDs, steroids, cocaine, or missed medication. Then decide whether there is acute target-organ damage. Severe numbers alone do not equal emergency; severe numbers plus organ injury do.
+
+CARDIOVASCULAR RISK ASSESSMENT: Hypertension treatment decisions depend on absolute risk as well as blood pressure. Assess smoking, diabetes, lipids, chronic kidney disease, family history, obesity, physical inactivity, diet, alcohol, sleep apnoea, and established cardiovascular disease. Look for end-organ damage: LV hypertrophy, retinopathy, albuminuria, reduced eGFR, prior stroke/TIA, coronary disease, peripheral arterial disease, or heart failure.
+
+LIFESTYLE DETAILS: Salt reduction is especially important where dietary sodium is high. Weight loss lowers BP in overweight patients. Regular aerobic exercise plus resistance training is effective. Limit alcohol, avoid tobacco, improve sleep, treat sleep apnoea, and encourage diets rich in fruit, vegetables, legumes, whole grains, and low-fat dairy where culturally appropriate. Lifestyle advice should be specific and measurable rather than a vague instruction to "eat better."
+
+DRUG SELECTION: ACE inhibitors and ARBs are kidney- and heart-protective in proteinuric CKD and diabetes but require creatinine and potassium monitoring. Calcium-channel blockers are effective and useful in older patients and isolated systolic hypertension. Thiazide-like diuretics are effective but may worsen gout, hyponatraemia, hypokalaemia, and glucose control. Beta-blockers are not usually first-line for uncomplicated hypertension but are useful with angina, post-MI, some arrhythmias, or heart failure.
+
+FOLLOW-UP AND MONITORING: After starting or changing medication, recheck BP, adverse effects, adherence, renal function, and electrolytes when indicated. Ask directly about ankle swelling, cough, dizziness, erectile dysfunction, gout, polyuria, and postural symptoms. Resistant hypertension means uncontrolled BP despite appropriate triple therapy including a diuretic; confirm adherence and out-of-office BP before extensive secondary workup.
+
+SPECIAL SITUATIONS: Pregnancy hypertension requires pregnancy-safe medicines and urgent assessment for pre-eclampsia symptoms such as headache, visual disturbance, epigastric pain, oedema, or reduced fetal movements. In diabetes or CKD, albuminuria influences drug choice and targets. In suspected aortic dissection, BP and heart rate control are immediate priorities under specialist care.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "how do I diagnose hypertension?", answer repeated accurate measurement and confirmation with home or ambulatory readings where available. For "what causes secondary hypertension?", list renal disease, endocrine causes, sleep apnoea, pregnancy, drugs, and vascular disease. For "what tests should I order?", include renal function, electrolytes, urine protein/albumin, glucose/HbA1c, lipids, ECG, and assessment for target-organ damage. For "when is it an emergency?", explain severe BP plus acute organ damage.
+
+TARGET-ORGAN DAMAGE: Hypertension damages small and large vessels. Brain effects include stroke, TIA, vascular cognitive impairment, and hypertensive encephalopathy. Heart effects include LV hypertrophy, coronary disease, heart failure, and AF. Kidney effects include albuminuria and CKD. Eye effects include hypertensive retinopathy, haemorrhages, exudates, and papilloedema in malignant hypertension. Vascular effects include aortic aneurysm/dissection and peripheral arterial disease.
+
+ADHERENCE BARRIERS: Hypertension is often asymptomatic, so patients may stop medicines if side effects occur. Ask about cost, beliefs, dizziness, sexual dysfunction, urinary frequency, cough, ankle swelling, and complex regimens. Single-pill combinations and home BP monitoring can improve control.
+
+SAFETY NOTES: Do not rapidly lower blood pressure in uncomplicated severe hypertension without target-organ damage. Avoid ACE inhibitors, ARBs, and renin inhibitors in pregnancy.
+
+Sources used: WHO hypertension pharmacological treatment guideline, Merck Manual Professional, NICE hypertension guidance.

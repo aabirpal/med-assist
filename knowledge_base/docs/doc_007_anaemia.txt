@@ -1,0 +1,43 @@
+Anaemia is a reduction in haemoglobin concentration below the normal range for age, sex, and pregnancy status. It reduces oxygen-carrying capacity and is a sign of an underlying process rather than a final diagnosis.
+
+CLASSIFICATION BY MCV: Microcytic anaemia includes iron deficiency, thalassaemia, anaemia of chronic inflammation, lead poisoning, and sideroblastic anaemia. Normocytic anaemia includes acute blood loss, chronic kidney disease, anaemia of chronic disease, haemolysis, bone marrow failure, and mixed deficiencies. Macrocytic anaemia includes vitamin B12 deficiency, folate deficiency, alcohol use, liver disease, hypothyroidism, myelodysplasia, and medications such as methotrexate or hydroxyurea.
+
+SYMPTOMS: Fatigue, weakness, reduced exercise tolerance, dyspnoea, palpitations, dizziness, headache, syncope, angina, or worsening heart failure. Chronic anaemia may be surprisingly well tolerated. Severe or rapid-onset anaemia causes more prominent symptoms.
+
+EXAMINATION: Pallor, tachycardia, flow murmur, signs of heart failure, jaundice, lymphadenopathy, hepatosplenomegaly, bruising, koilonychia, glossitis, angular cheilitis, neuropathy in B12 deficiency, and signs of chronic disease. Always look for bleeding, including gastrointestinal and menstrual sources.
+
+INITIAL INVESTIGATIONS: FBC with indices and blood film, reticulocyte count, ferritin, transferrin saturation or iron studies, B12, folate, U&E/eGFR, LFTs, CRP/ESR, thyroid function when macrocytic or clinically suggested, and haemolysis screen if indicated: bilirubin, LDH, haptoglobin, direct antiglobulin test. Consider pregnancy test, stool occult blood, coeliac screen, urinalysis, and endoscopy depending on age and context.
+
+IRON DEFICIENCY ANAEMIA: Usually microcytic and hypochromic with low ferritin unless inflammation masks ferritin elevation. Causes include menstrual loss, pregnancy, poor intake, malabsorption, and gastrointestinal blood loss. In adult men and postmenopausal women, occult GI malignancy must be considered.
+
+B12 AND FOLATE DEFICIENCY: Often macrocytic. B12 deficiency can cause peripheral neuropathy, posterior column signs, cognitive changes, and glossitis. Treat B12 deficiency before or alongside folate if both are possible, because folate alone can improve anaemia while neurological injury progresses.
+
+HAEMOLYSIS: Suggested by jaundice, dark urine, raised reticulocytes, raised LDH, raised unconjugated bilirubin, low haptoglobin, and abnormal blood film. Causes include autoimmune haemolysis, hereditary spherocytosis, G6PD deficiency, sickle cell disease, microangiopathy, infection, drugs, and mechanical valves.
+
+MANAGEMENT: Treat the cause. Iron deficiency is treated with oral iron where tolerated or IV iron when absorption, tolerance, severity, or urgency requires it. Transfusion is reserved for severe symptomatic anaemia, active bleeding, haemodynamic instability, or specific thresholds guided by local policy.
+
+STUDENT DIAGNOSTIC APPROACH: Start with three questions: Is the patient unstable or actively bleeding? Is marrow responding? What does the MCV suggest? Reticulocyte count separates underproduction from blood loss or haemolysis. A high reticulocyte count suggests bleeding or haemolysis if marrow has enough substrate. A low reticulocyte count suggests iron/B12/folate deficiency, chronic inflammation, kidney disease, marrow suppression, endocrine disease, or malignancy.
+
+IRON DEFICIENCY WORKUP: Iron deficiency is common but the cause matters. Ask about menstrual loss, pregnancy, diet, pica, blood donation, NSAIDs, anticoagulants, dyspepsia, change in bowel habit, weight loss, melaena, rectal bleeding, coeliac symptoms, bariatric surgery, and inflammatory bowel disease. Ferritin is the best single test for iron stores but rises with inflammation; transferrin saturation can help when ferritin is equivocal.
+
+ANAEMIA OF CHRONIC INFLAMMATION: Chronic infection, autoimmune disease, cancer, CKD, and inflammatory states can trap iron in storage and reduce erythropoiesis. It is often normocytic or mildly microcytic. Ferritin may be normal or high, serum iron low, and transferrin low or normal. Treating the underlying disease is central.
+
+MACROCYTOSIS DETAILS: Macrocytosis may occur without anaemia. Alcohol, liver disease, hypothyroidism, reticulocytosis, pregnancy, myelodysplasia, and drugs are common causes. B12 deficiency can cause irreversible neurological damage, including paraesthesia, ataxia, proprioception loss, cognitive change, and optic neuropathy. Pernicious anaemia is autoimmune gastritis causing intrinsic factor deficiency.
+
+BLOOD FILM CLUES: Target cells suggest liver disease or haemoglobinopathy. Spherocytes suggest hereditary spherocytosis or autoimmune haemolysis. Schistocytes suggest microangiopathic haemolysis such as TTP, HUS, DIC, malignant hypertension, or mechanical valve haemolysis. Hypersegmented neutrophils suggest megaloblastic anaemia. Blasts suggest leukaemia and require urgent haematology input.
+
+TRANSFUSION THINKING: Transfusion treats oxygen delivery, not the diagnosis. Consider symptoms, haemodynamic stability, active bleeding, cardiac disease, rate of onset, and haemoglobin level. Give iron replacement after transfusion if iron deficiency is present. Avoid unnecessary transfusion because of reactions, overload, alloimmunisation, and infection risk.
+
+MANAGEMENT EXAMPLES: Oral iron is best absorbed on an empty stomach but tolerance improves with food or alternate-day dosing. IV iron is useful when oral iron fails, malabsorption exists, ongoing loss is high, or rapid replacement is needed. B12 replacement may be intramuscular or high-dose oral depending on cause and local practice. Folate deficiency is treated after B12 deficiency is excluded or treated.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "how do I classify anaemia?", answer by MCV, reticulocyte count, and blood film. For "microcytic anaemia?", compare iron deficiency, thalassaemia, and chronic inflammation. For "macrocytic anaemia?", include B12, folate, alcohol, liver disease, hypothyroidism, drugs, and marrow disorders. For "normocytic anaemia?", include acute bleeding, CKD, chronic disease, haemolysis, marrow failure, and mixed deficiency.
+
+THALASSAEMIA VERSUS IRON DEFICIENCY: Thalassaemia trait can cause marked microcytosis with relatively preserved haemoglobin and normal/high RBC count. Ferritin is usually normal unless iron deficiency coexists. Giving repeated iron without deficiency is unhelpful and can be harmful. Family origin and history can provide clues; haemoglobin electrophoresis helps in many cases.
+
+CKD ANAEMIA: Chronic kidney disease reduces erythropoietin production and often causes normocytic anaemia. Iron deficiency and inflammation commonly coexist. Management may include iron replacement and erythropoiesis-stimulating agents under specialist guidance, while avoiding unnecessary transfusion in transplant candidates when possible.
+
+URGENT HAEMATOLOGY CLUES: Pancytopenia, blasts, very high or low white cell count, haemolysis with thrombocytopenia, suspected TTP, aplastic anaemia, or symptomatic severe anaemia needs urgent senior review.
+
+SAFETY NOTES: Red flags include chest pain, syncope, heart failure, haemodynamic instability, melaena, haematemesis, pancytopenia, blasts on film, or neurological signs with suspected B12 deficiency.
+
+Sources used: Merck Manual Professional, WHO anaemia resources, NICE/BSH educational guidance.

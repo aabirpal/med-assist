@@ -1,0 +1,39 @@
+Diabetes mellitus is a group of metabolic disorders characterised by chronic hyperglycaemia due to impaired insulin secretion, impaired insulin action, or both. The major clinical categories are type 1 diabetes, type 2 diabetes, gestational diabetes, and less common specific types such as monogenic diabetes or pancreatic diabetes.
+
+TYPE 1 DIABETES: Autoimmune beta-cell destruction causing absolute insulin deficiency. It often presents in childhood or young adulthood but can occur at any age. Features include polyuria, polydipsia, weight loss, fatigue, blurred vision, and risk of diabetic ketoacidosis. Lifelong insulin is required.
+
+TYPE 2 DIABETES: Insulin resistance with progressive beta-cell dysfunction. It is associated with central obesity, family history, ageing, sedentary lifestyle, some ethnic backgrounds, gestational diabetes history, hypertension, dyslipidaemia, and polycystic ovary syndrome. Symptoms may be mild or absent for years, so complications may be present at diagnosis.
+
+DIAGNOSIS: Diabetes is diagnosed using plasma glucose or HbA1c according to validated local criteria. Common thresholds include fasting plasma glucose at or above 7.0 mmol/L, random plasma glucose at or above 11.1 mmol/L with symptoms, 2-hour oral glucose tolerance test at or above 11.1 mmol/L, or HbA1c at or above 48 mmol/mol (6.5%). Repeat testing is usually needed if asymptomatic.
+
+CLINICAL FEATURES: Polyuria, polydipsia, fatigue, recurrent infections, candidiasis, slow wound healing, blurred vision, weight loss, or neuropathic symptoms. Severe hyperglycaemia can cause dehydration, DKA, or hyperosmolar hyperglycaemic state.
+
+INITIAL ASSESSMENT: Confirm diagnosis, classify diabetes type, assess symptoms, weight/BMI, blood pressure, cardiovascular risk, renal function, urine albumin-creatinine ratio, lipids, foot pulses and sensation, and retinal screening. Check ketones if symptomatic, unwell, pregnant, or suspected type 1 diabetes.
+
+MANAGEMENT PRINCIPLES: Education, nutrition advice, physical activity, weight management, smoking cessation, vaccination, and individualised glycaemic targets. Type 1 diabetes requires basal-bolus insulin or pump therapy, carbohydrate education, glucose monitoring, and sick-day rules. Type 2 diabetes management commonly starts with lifestyle measures and metformin if tolerated; additional medicines such as SGLT2 inhibitors, GLP-1 receptor agonists, DPP-4 inhibitors, sulfonylureas, pioglitazone, or insulin are chosen based on cardiovascular disease, kidney disease, hypoglycaemia risk, weight, cost, and patient preference.
+
+COMPLICATIONS: Microvascular complications include retinopathy, nephropathy, and neuropathy. Macrovascular complications include coronary disease, stroke, and peripheral arterial disease. Other complications include diabetic foot ulceration, infection risk, erectile dysfunction, gastroparesis, and pregnancy complications.
+
+DISTINGUISHING TYPE 1 FROM TYPE 2: Type 1 is suggested by younger age, lean body habitus, rapid symptom onset, ketosis, personal or family autoimmune disease, and need for insulin from diagnosis. Type 2 is suggested by overweight or central adiposity, acanthosis nigricans, gradual onset, strong family history, hypertension, dyslipidaemia, or previous gestational diabetes. However, age and body habitus can mislead. If classification is uncertain, check ketones, C-peptide, and diabetes autoantibodies where available, and treat insulin deficiency urgently.
+
+ACUTE HYPERGLYCAEMIC EMERGENCIES: DKA causes ketosis and acidosis, classically in type 1 diabetes. Hyperosmolar hyperglycaemic state (HHS) usually occurs in type 2 diabetes with profound dehydration, very high glucose, high osmolality, and little ketosis. HHS may present with confusion, seizures, focal neurological signs, or coma. Both require urgent fluid, electrolyte, insulin, and trigger management.
+
+HYPOGLYCAEMIA: Symptoms include sweating, tremor, hunger, palpitations, anxiety, confusion, drowsiness, seizure, or coma. It is most common with insulin and sulfonylureas. Treat immediately with fast-acting carbohydrate if conscious and able to swallow, or glucagon/IV glucose if severe. Review causes: missed meals, exercise, alcohol, renal impairment, dose error, weight loss, or drug interaction.
+
+MONITORING AND TARGETS: HbA1c reflects average glycaemia over roughly 2-3 months but is unreliable in anaemia, haemoglobinopathy, recent transfusion, pregnancy, advanced kidney disease, or altered red cell turnover. Capillary glucose or continuous glucose monitoring guides day-to-day management. Targets should be individualised; tighter targets may suit younger patients if safe, while frail older adults or those with recurrent hypoglycaemia need less aggressive targets.
+
+CARDIORENAL RISK: Diabetes care is not only glucose lowering. Blood pressure control, statins, smoking cessation, kidney protection, weight management, and exercise often reduce morbidity more than small HbA1c changes. SGLT2 inhibitors and GLP-1 receptor agonists may be preferred in patients with established cardiovascular disease, heart failure, chronic kidney disease, or obesity where available and appropriate.
+
+FOOT AND EYE CARE: Annual retinal screening detects retinopathy before symptoms. Foot assessment checks pulses, sensation, deformity, callus, ulcers, infection, and footwear. Loss of protective sensation plus poor perfusion creates high ulcer and amputation risk. Any diabetic foot infection, spreading cellulitis, gangrene, deep ulcer, or suspected osteomyelitis needs urgent specialist review.
+
+SICK-DAY PRINCIPLES: During vomiting, fever, dehydration, or reduced intake, patients need clear advice about glucose/ketone checks, hydration, insulin continuation, and when to seek help. Some medicines may need temporary withholding during dehydration, such as SGLT2 inhibitors, metformin, ACE inhibitors/ARBs, NSAIDs, and diuretics depending on local sick-day rules.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "type 1 versus type 2?", compare insulin deficiency, ketosis risk, onset, phenotype, and autoimmune markers. For "how is diabetes diagnosed?", include HbA1c, fasting glucose, random glucose with symptoms, and oral glucose tolerance testing. For "what are complications?", separate microvascular retinopathy/nephropathy/neuropathy from macrovascular MI/stroke/PAD and acute DKA/HHS/hypoglycaemia. For "what should be checked annually?", include HbA1c, BP, renal function, albuminuria, lipids, feet, eyes, smoking, weight, and cardiovascular risk.
+
+MEDICINE SAFETY: Metformin can cause gastrointestinal side effects and is avoided or dose-adjusted in significant renal impairment and acute dehydration. Sulfonylureas can cause hypoglycaemia and weight gain. Insulin can cause hypoglycaemia and requires education. SGLT2 inhibitors can cause genital infections, volume depletion, and euglycaemic DKA. GLP-1 receptor agonists commonly cause nausea and may aid weight loss. Medication choice must consider pregnancy, kidney function, heart failure, ASCVD, cost, and patient priorities.
+
+INFECTION AND PROCEDURES: Diabetes increases risk of skin, urinary, respiratory, and foot infections. Perioperative plans should address fasting, insulin adjustment, SGLT2 inhibitor withholding, glucose monitoring, and hypoglycaemia prevention. Steroids and acute illness often raise glucose and may require temporary treatment escalation.
+
+SAFETY NOTES: Suspected DKA, severe dehydration, vomiting, altered mental status, pregnancy with hyperglycaemia, or new likely type 1 diabetes needs urgent assessment. Avoid over-tight glycaemic targets in frail patients or those at high hypoglycaemia risk.
+
+Sources used: WHO diabetes fact sheet and health topic pages, ADA Standards of Care overview, Merck Manual Professional.

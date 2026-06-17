@@ -1,0 +1,45 @@
+Deep vein thrombosis (DVT) is thrombus formation in the deep venous system, most commonly in the calf, thigh, or pelvis. It is part of venous thromboembolism (VTE) and can cause pulmonary embolism.
+
+PATHOPHYSIOLOGY: Virchow triad describes the major mechanisms: venous stasis, endothelial injury, and hypercoagulability. Proximal DVT has greater embolic risk than isolated distal calf DVT.
+
+RISK FACTORS: Recent surgery, trauma, hospitalisation, immobility, active cancer, previous VTE, thrombophilia, pregnancy/postpartum, oestrogen therapy, obesity, long-haul travel, inflammatory disease, central venous catheters, heart failure, nephrotic syndrome, and increasing age.
+
+CLINICAL FEATURES: Unilateral leg swelling, calf or thigh pain, tenderness along the deep veins, warmth, erythema, pitting oedema, superficial venous dilation, and increased calf circumference. DVT may be asymptomatic. Bilateral swelling suggests heart failure, renal disease, liver disease, medications, or bilateral/proximal obstruction.
+
+DIFFERENTIAL DIAGNOSIS: Cellulitis, ruptured Baker cyst, muscle tear, superficial thrombophlebitis, chronic venous insufficiency, lymphoedema, heart failure, nephrotic syndrome, and trauma.
+
+INITIAL ASSESSMENT: Assess symptoms, risk factors, bleeding risk, pregnancy status, renal function, and symptoms of PE such as dyspnoea, pleuritic chest pain, haemoptysis, syncope, or hypoxia. Use a clinical prediction score such as Wells DVT where appropriate.
+
+INVESTIGATIONS: Compression duplex ultrasound is first-line imaging for suspected lower-limb DVT. D-dimer is useful in low-probability patients; a negative D-dimer can exclude DVT in selected cases, but a positive result is non-specific. Blood tests before anticoagulation usually include FBC, renal function, liver function, coagulation, and pregnancy test when relevant.
+
+MANAGEMENT: If DVT is likely and imaging is delayed, start interim anticoagulation if bleeding risk is acceptable. Confirmed DVT is treated with anticoagulation, commonly a DOAC, LMWH, fondaparinux, or warfarin depending on cancer, pregnancy, renal function, antiphospholipid syndrome, drug interactions, cost, and local policy. Typical minimum duration is 3 months, extended if unprovoked, recurrent, persistent risk factors, or active cancer.
+
+SUPPORTIVE CARE: Encourage mobilisation once anticoagulated. Analgesia and leg elevation can help symptoms. Compression stockings are not routinely used to prevent post-thrombotic syndrome in all patients but may help selected symptomatic swelling.
+
+COMPLICATIONS: Pulmonary embolism, recurrent VTE, post-thrombotic syndrome, chronic venous insufficiency, and anticoagulant bleeding.
+
+STUDENT DIAGNOSTIC APPROACH: DVT symptoms are non-specific, so combine history, examination, probability scoring, D-dimer, and ultrasound. Ask whether swelling is unilateral, sudden, painful, associated with redness or fever, and whether there are PE symptoms. Measure calf circumference at a fixed point if using Wells criteria. Examine pulses and neurological status because severe swelling can threaten limb perfusion.
+
+WELLS DVT SCORE CONCEPTS: Points are given for active cancer, paralysis/immobilisation, recent bed rest or surgery, localised deep venous tenderness, entire leg swelling, calf swelling, pitting oedema, collateral superficial veins, and previous DVT. An alternative diagnosis at least as likely subtracts points. The score separates likely from unlikely DVT and guides D-dimer versus ultrasound strategy.
+
+ULTRASOUND RESULTS: A positive proximal compression ultrasound confirms DVT. A negative scan may be enough in low-risk settings, but repeat ultrasound may be needed if probability remains high or D-dimer is positive. Isolated distal calf DVT management varies: some patients receive anticoagulation, while selected low-risk patients may have serial imaging.
+
+ANTICOAGULATION SAFETY: Before treatment, check bleeding risk, renal function, liver disease, platelet count, pregnancy, body weight extremes, drug interactions, recent surgery, intracranial pathology, and active bleeding. Explain bleeding signs: melaena, haematuria, severe headache, vomiting blood, heavy menstrual bleeding, extensive bruising, or trauma while anticoagulated.
+
+PROVOKED VERSUS UNPROVOKED: Provoked DVT follows a transient risk factor such as surgery, trauma, or immobility. Unprovoked DVT has no clear trigger and carries higher recurrence risk. Persistent risk factors include active cancer, antiphospholipid syndrome, chronic inflammatory disease, or ongoing immobility. Duration of anticoagulation depends on recurrence risk versus bleeding risk.
+
+CANCER AND THROMBOPHILIA: Extensive occult cancer screening is not routine for every DVT, but assess red flags such as weight loss, anaemia, abnormal exam, or age-appropriate screening gaps. Thrombophilia testing is not done during acute thrombosis for most patients and rarely changes immediate management; consider specialist input for young, recurrent, unusual-site, or strong family history cases.
+
+POST-THROMBOTIC SYNDROME: Chronic pain, swelling, heaviness, skin pigmentation, venous eczema, and ulcers can follow DVT. Encourage mobility, weight management, adherence to anticoagulation, and review persistent symptoms.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "what are DVT symptoms?", include unilateral swelling, pain, tenderness, warmth, erythema, pitting oedema, and superficial veins. For "how do I investigate?", answer Wells score, D-dimer for unlikely cases, compression ultrasound, and repeat imaging if needed. For "why treat DVT?", explain prevention of PE, extension, recurrence, and post-thrombotic syndrome. For "how long anticoagulation?", explain at least 3 months for many cases, then reassess provoking factors and bleeding risk.
+
+UPPER-LIMB DVT: Upper-limb DVT may occur with central venous catheters, pacemaker leads, cancer, thoracic outlet syndrome, or effort thrombosis. Symptoms include arm swelling, pain, cyanosis, and prominent superficial veins. PE can still occur. Management usually involves anticoagulation and addressing catheter or anatomical causes.
+
+PHLEGMASIA: Massive iliofemoral thrombosis can cause severe swelling, pain, cyanosis, and threatened limb perfusion. This is an emergency requiring vascular/specialist input and possible thrombus removal strategies. Do not confuse it with simple cellulitis.
+
+PITFALLS: Homan sign is neither sensitive nor specific. Cellulitis and DVT can coexist. A negative D-dimer is useful only in the right probability group. Do not forget PE symptoms when evaluating a swollen leg.
+
+SAFETY NOTES: New dyspnoea, chest pain, syncope, haemoptysis, severe leg swelling, phlegmasia, pregnancy, active bleeding, or severe renal impairment requires urgent senior input.
+
+Sources used: Merck Manual Professional, NICE VTE guidance, CHEST antithrombotic guidance.

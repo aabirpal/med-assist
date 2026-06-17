@@ -1,0 +1,43 @@
+Asthma is a chronic inflammatory airway disease with variable respiratory symptoms and variable expiratory airflow limitation. It is usually characterised by wheeze, breathlessness, chest tightness, and cough that vary over time and with triggers.
+
+TRIGGERS: Viral infections, allergens, exercise, cold air, smoke, air pollution, occupational exposures, NSAIDs or beta-blockers in susceptible people, stress, reflux, and poor adherence or inhaler technique.
+
+CLINICAL FEATURES: Episodic wheeze, dyspnoea, cough, nocturnal or early morning symptoms, chest tightness, and symptom variability. Examination may be normal between episodes. During exacerbations there may be tachypnoea, wheeze, accessory muscle use, inability to speak full sentences, hypoxia, exhaustion, or silent chest.
+
+DIAGNOSIS: Diagnosis requires compatible history plus objective evidence of variable airflow limitation or airway inflammation where available. Tests include spirometry with bronchodilator reversibility, peak flow variability, fractional exhaled nitric oxide, bronchial challenge testing, and allergy assessment in selected patients. Consider alternative diagnoses if symptoms are isolated chronic cough, stridor, cardiac disease, COPD, bronchiectasis, vocal cord dysfunction, or recurrent infection.
+
+LONG-TERM MANAGEMENT: Educate about inhaler technique, adherence, trigger avoidance, smoking cessation, vaccinations, and written asthma action plan. Modern strategies avoid reliance on short-acting beta-agonist alone in many adolescents/adults because it does not treat airway inflammation. Controller therapy is based on severity and risk, commonly inhaled corticosteroid-containing treatment, with add-on LABA, LAMA, leukotriene receptor antagonist, or biologic therapy in selected patients. Step up if uncontrolled after checking diagnosis, technique, adherence, and triggers; step down after sustained control.
+
+ASSESSING CONTROL: Daytime symptoms, night waking, reliever use, activity limitation, exacerbation history, lung function, and risk factors such as previous ICU admission, frequent oral steroids, poor adherence, smoking, pregnancy, and psychosocial barriers.
+
+ACUTE EXACERBATION: Assess ability to speak, respiratory rate, pulse, oxygen saturation, peak expiratory flow if possible, exhaustion, cyanosis, mental state, and chest auscultation. Severe attacks may have very little wheeze because airflow is critically reduced.
+
+ACUTE MANAGEMENT: Give oxygen to maintain adequate saturation, repeated inhaled or nebulised short-acting beta-agonist, add ipratropium for severe attacks, give systemic corticosteroids early, and consider IV magnesium sulfate for severe or life-threatening asthma not responding to initial therapy. Treat triggers and monitor response. ICU support may be required for exhaustion, rising CO2, altered consciousness, or persistent hypoxia.
+
+COMPLICATIONS: Status asthmaticus, respiratory failure, pneumothorax, medication adverse effects, impaired growth in children with high steroid exposure, and death.
+
+STUDENT DIAGNOSTIC APPROACH: Asthma is variable. Ask about wheeze, cough, chest tightness, breathlessness, night waking, exercise symptoms, triggers, atopy, eczema, allergic rhinitis, family history, occupational pattern, smoking/vaping, pets, damp housing, and response to inhalers. Normal examination between attacks does not exclude asthma.
+
+OBJECTIVE TESTING: Spirometry may show obstructive pattern and bronchodilator reversibility. Peak flow monitoring can show diurnal variability. FeNO supports eosinophilic airway inflammation but is not diagnostic alone. Bronchial challenge testing can help when baseline spirometry is normal and suspicion remains. Avoid labelling asthma permanently without objective support when testing is available.
+
+ASTHMA VERSUS COPD: Asthma often starts earlier, varies day to day, has triggers and atopy, and may normalise between attacks. COPD usually follows chronic exposure and persistent progressive symptoms. Asthma-COPD overlap can occur, especially in older smokers with childhood asthma. Treatment must avoid undertreating airway inflammation.
+
+CONTROL AND RISK: Poor control means frequent symptoms, night waking, reliever use, activity limitation, or exacerbations. Future risk is high with previous intubation/ICU, recent severe attack, frequent oral steroids, poor adherence, psychosocial stress, food allergy, pregnancy, smoking, and overuse of short-acting reliever inhalers.
+
+INHALER TECHNIQUE: Check technique at every review. Common errors include failing to exhale first, poor seal, mistimed actuation, inadequate inspiratory flow, not holding breath, and not rinsing mouth after inhaled corticosteroid. Use spacers when appropriate and simplify regimens where possible.
+
+ACUTE SEVERITY: Severe asthma may show inability to complete sentences, respiratory rate above 25, pulse above 110, low peak flow, or oxygen saturation below target. Life-threatening features include silent chest, cyanosis, exhaustion, hypotension, arrhythmia, altered consciousness, or very low peak flow. A normal or high CO2 in a tiring patient is ominous because early asthma usually causes low CO2 from hyperventilation.
+
+DISCHARGE AFTER ATTACK: Before discharge, ensure symptoms and peak flow improve, inhaler technique is checked, oral steroid course is arranged if indicated, preventer therapy is optimised, triggers are reviewed, and written action plan/follow-up are provided. Recent ED attendance is a chance to prevent future death.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "how is asthma diagnosed?", answer variable symptoms plus objective variability in airflow or airway inflammation. For "what is acute severe asthma?", include inability to speak full sentences, high respiratory rate, tachycardia, low oxygen saturation, and reduced peak flow. For "why are inhaled steroids important?", explain they treat airway inflammation and reduce exacerbation risk. For "what are life-threatening signs?", include silent chest, exhaustion, altered consciousness, cyanosis, hypotension, and rising CO2.
+
+OCCUPATIONAL ASTHMA: Symptoms that improve on weekends or holidays and worsen at work suggest occupational asthma. Causes include flour, isocyanates, latex, wood dust, animals, and cleaning agents. Early recognition matters because ongoing exposure can cause persistent disease. Serial peak flows at and away from work can support diagnosis.
+
+SPECIAL SITUATIONS: Pregnancy asthma should be actively controlled because hypoxia is dangerous for mother and fetus; most inhaled therapies are safer than uncontrolled asthma. Exercise-induced bronchoconstriction can be managed with warm-up, controller optimisation, and reliever strategy. Aspirin-exacerbated respiratory disease combines asthma, nasal polyps, and NSAID sensitivity.
+
+PITFALLS: Not all wheeze is asthma; consider foreign body, heart failure, vocal cord dysfunction, COPD, anaphylaxis, PE, or bronchiolitis depending on age and context. Do not discharge a patient who is clinically tiring even if wheeze becomes quieter.
+
+SAFETY NOTES: Silent chest, exhaustion, confusion, cyanosis, bradycardia, hypotension, or normal/rising CO2 in a severe attack are life-threatening signs.
+
+Sources used: GINA asthma strategy, NICE/BTS/SIGN asthma guidance, Merck Manual Professional.

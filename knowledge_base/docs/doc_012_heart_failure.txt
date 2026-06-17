@@ -1,0 +1,41 @@
+Heart failure is a clinical syndrome in which structural or functional cardiac abnormality impairs ventricular filling or ejection, causing symptoms and signs such as breathlessness, fatigue, and fluid retention. Congestive heart failure usually refers to heart failure with pulmonary or systemic congestion.
+
+CLASSIFICATION: Heart failure with reduced ejection fraction (HFrEF) has reduced LV systolic function. Heart failure with mildly reduced or preserved ejection fraction (HFmrEF/HFpEF) has less impaired or preserved ejection fraction with diastolic dysfunction, high filling pressures, or structural disease. Heart failure may be acute, chronic, decompensated, left-sided, right-sided, or biventricular.
+
+CAUSES: Ischaemic heart disease, hypertension, valvular disease, cardiomyopathy, myocarditis, arrhythmia, congenital heart disease, alcohol or toxins, chemotherapy, thyroid disease, anaemia, renal disease, and infiltrative disease. Acute decompensation may be triggered by ACS, infection, arrhythmia, PE, uncontrolled hypertension, medication non-adherence, NSAIDs, renal failure, or excess salt/fluid.
+
+CLINICAL FEATURES: Exertional dyspnoea, orthopnoea, paroxysmal nocturnal dyspnoea, fatigue, reduced exercise tolerance, ankle swelling, weight gain, cough, wheeze, nocturia, and abdominal distension. Signs include tachycardia, displaced apex beat, raised JVP, pulmonary crackles, peripheral oedema, hepatomegaly, ascites, cool peripheries, and third heart sound.
+
+INVESTIGATIONS: ECG, chest X-ray, BNP or NT-proBNP, echocardiography, FBC, U&E/eGFR, LFTs, thyroid function, HbA1c/glucose, lipids, ferritin/iron studies, and troponin if ACS suspected. Echocardiography assesses ejection fraction, valves, chamber size, wall motion, pulmonary pressures, and pericardial disease.
+
+ACUTE MANAGEMENT: Use ABCDE, oxygen if hypoxic, sit upright, monitor ECG and urine output, treat triggers, and assess congestion versus hypoperfusion. IV loop diuretics are central for pulmonary or systemic congestion. Nitrates may help acute pulmonary oedema with high blood pressure. Non-invasive ventilation may be needed for respiratory distress. Shock or severe hypoperfusion needs urgent senior/critical care input.
+
+CHRONIC MANAGEMENT: Education, daily weights, salt moderation, exercise rehabilitation, vaccination, smoking cessation, alcohol reduction, and management of comorbidities. HFrEF disease-modifying therapy usually includes an ACE inhibitor/ARB or ARNI, evidence-based beta-blocker, mineralocorticoid receptor antagonist, and SGLT2 inhibitor where tolerated. Diuretics control congestion. Devices such as ICD or CRT are used in selected patients.
+
+COMPLICATIONS: Arrhythmias, sudden cardiac death, recurrent admissions, renal dysfunction, hepatic congestion, thromboembolism, cachexia, depression, and poor quality of life.
+
+STUDENT DIAGNOSTIC APPROACH: Heart failure is diagnosed from symptoms, signs, natriuretic peptides, and echocardiography. Breathlessness alone is non-specific. Ask about orthopnoea, paroxysmal nocturnal dyspnoea, ankle swelling, weight gain, reduced exercise tolerance, chest pain, palpitations, syncope, alcohol, chemotherapy, viral illness, hypertension, MI, valve disease, and family cardiomyopathy. Examine for congestion and perfusion.
+
+HFrEF VERSUS HFpEF: HFrEF has impaired systolic contraction and strong evidence for disease-modifying therapies. HFpEF is common in older patients, hypertension, obesity, diabetes, CKD, and AF; management focuses on congestion, blood pressure, comorbidities, SGLT2 inhibitors where appropriate, exercise, and treating triggers. Both can cause severe symptoms.
+
+NATRIURETIC PEPTIDES: BNP or NT-proBNP rises with myocardial wall stress and supports diagnosis, but levels rise with age, renal failure, PE, AF, and sepsis. Obesity can lower levels. A low natriuretic peptide makes heart failure less likely in untreated patients, but interpretation requires context.
+
+CHEST X-RAY AND ECG: CXR may show cardiomegaly, upper lobe diversion, interstitial oedema, alveolar oedema, Kerley B lines, or pleural effusions, but can be normal. ECG may show prior MI, LV hypertrophy, AF, bundle branch block, or arrhythmia. A completely normal ECG makes chronic HFrEF less likely but does not exclude HFpEF.
+
+ACUTE PULMONARY OEDEMA: Presents with severe breathlessness, crackles, hypoxia, frothy sputum, hypertension or shock, and anxiety. Sit upright, give oxygen if hypoxic, consider nitrates if hypertensive, IV diuretics if congested, and non-invasive ventilation if persistent respiratory distress. Look for ACS, arrhythmia, valve catastrophe, hypertensive crisis, infection, renal failure, or PE.
+
+MEDICATION TITRATION: Disease-modifying medicines are introduced and titrated gradually while monitoring BP, renal function, potassium, heart rate, symptoms, and congestion. Some deterioration in creatinine after ACE inhibitor/ARB/ARNI or SGLT2 initiation can be acceptable, but large rises, hyperkalaemia, hypotension, or dehydration need review.
+
+PATIENT EDUCATION: Teach daily weights, fluid/salt advice where appropriate, medication adherence, vaccination, exercise, and when to seek help for rapid weight gain, worsening orthopnoea, syncope, chest pain, or reduced urine output. Avoid NSAIDs where possible because they worsen fluid retention and renal function.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "how do I diagnose heart failure?", answer symptoms/signs plus natriuretic peptide and echocardiography. For "left versus right heart failure?", explain pulmonary congestion versus systemic venous congestion, while noting most chronic cases overlap. For "HFrEF treatment?", list the four major disease-modifying pillars where tolerated: ARNI/ACEi/ARB, beta-blocker, MRA, and SGLT2 inhibitor, plus diuretics for symptoms. For "acute pulmonary oedema?", include upright position, oxygen if hypoxic, nitrates if hypertensive, IV diuretics, NIV, and trigger treatment.
+
+COMORBIDITY MANAGEMENT: AF, CKD, diabetes, COPD, anaemia, iron deficiency, obesity, sleep apnoea, depression, and frailty commonly coexist. Treating comorbidities can reduce admissions and improve symptoms. Iron deficiency can worsen exercise tolerance even without severe anaemia and may be treated in selected HFrEF patients.
+
+DEVICE AND ADVANCED THERAPY OVERVIEW: ICD reduces sudden death risk in selected low-EF patients. CRT helps selected patients with electrical dyssynchrony such as broad LBBB. Advanced options include valve intervention, revascularisation, LV assist device, transplant, or palliative care depending on cause, severity, and goals.
+
+PITFALLS: Ankle swelling alone is not heart failure. Clear lungs do not exclude chronic HF. BNP can be falsely low in obesity and high in renal failure or AF. Do not stop beta-blockers automatically in mild decompensation without senior review, but shock, severe bradycardia, or acute instability changes priorities.
+
+SAFETY NOTES: New pulmonary oedema, hypotension, syncope, chest pain, severe hypoxia, or rapidly worsening renal function requires urgent escalation.
+
+Sources used: ESC heart failure guideline, NICE chronic heart failure guidance, Merck Manual Professional.

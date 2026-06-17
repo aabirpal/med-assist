@@ -1,0 +1,45 @@
+Bacterial meningitis is acute infection of the meninges and subarachnoid space. It is a medical emergency because neurological injury and death can occur rapidly.
+
+COMMON ORGANISMS: Causes vary by age, geography, vaccination status, and immune state. Important organisms include Streptococcus pneumoniae, Neisseria meningitidis, Haemophilus influenzae type b where vaccination is incomplete, Listeria monocytogenes in older adults, pregnancy, and immunosuppression, and group B streptococcus or Gram-negative bacilli in neonates.
+
+CLINICAL FEATURES: Fever, severe headache, neck stiffness, photophobia, nausea/vomiting, confusion, drowsiness, seizures, focal neurological deficits, and sepsis. The classic triad of fever, neck stiffness, and altered mental status is not always complete. Meningococcal disease may cause a non-blanching petechial or purpuric rash, shock, limb pain, or rapidly progressive illness.
+
+HIGH-RISK GROUPS: Infants, older adults, immunocompromised patients, asplenia, cochlear implants, CSF leak, recent neurosurgery, head trauma, and incomplete vaccination.
+
+DIFFERENTIAL DIAGNOSIS: Viral meningitis, encephalitis, subarachnoid haemorrhage, cerebral abscess, sepsis without meningitis, migraine, cervical infection, drug-induced meningitis, and metabolic encephalopathy.
+
+INITIAL ASSESSMENT: ABCDE, sepsis assessment, neurological examination, GCS, pupils, focal signs, rash check, glucose, IV access, blood cultures, and urgent senior involvement. Do not delay antibiotics for lumbar puncture or imaging if the patient is seriously ill.
+
+INVESTIGATIONS: Blood cultures, FBC, U&E, LFT, CRP, coagulation, glucose, lactate, and blood gas if unwell. Lumbar puncture CSF tests include opening pressure when possible, cell count, protein, glucose with paired blood glucose, Gram stain, culture, and PCR. Typical bacterial CSF shows high neutrophils, high protein, and low CSF:serum glucose ratio.
+
+WHEN TO IMAGE BEFORE LP: CT before lumbar puncture is considered if focal neurological signs, papilloedema, new seizures, significantly reduced consciousness, immunocompromise, or concern for mass lesion. Imaging must not delay antibiotics in suspected bacterial meningitis.
+
+MANAGEMENT: Give empiric IV antibiotics promptly according to age and local resistance patterns, often a third-generation cephalosporin plus ampicillin/amoxicillin when Listeria cover is needed. Add vancomycin in some settings with resistant pneumococcus risk. Dexamethasone may reduce complications in selected suspected pneumococcal meningitis if given before or with antibiotics. Treat shock, seizures, hypoglycaemia, raised intracranial pressure, and fluid/electrolyte problems.
+
+COMPLICATIONS: Hearing loss, seizures, cognitive impairment, cranial nerve palsies, hydrocephalus, stroke, subdural empyema, septic shock, DIC, limb ischaemia, and death.
+
+STUDENT DIAGNOSTIC APPROACH: Meningitis is a clinical emergency; treatment should not wait for the full classic triad. Ask about speed of onset, headache severity, fever, photophobia, neck pain, rash, confusion, seizures, vomiting, immunosuppression, pregnancy, travel, vaccination, sick contacts, ear/sinus infection, head trauma, neurosurgery, and antibiotics already taken.
+
+MENINGITIS VERSUS ENCEPHALITIS: Meningitis primarily causes headache, fever, neck stiffness, and photophobia. Encephalitis causes brain inflammation with altered behaviour, confusion, focal deficits, seizures, or reduced consciousness. In practice they overlap. Suspected encephalitis often requires aciclovir in addition to antibacterial therapy because herpes simplex encephalitis is treatable and dangerous.
+
+RASH AND SEPSIS: A non-blanching petechial or purpuric rash suggests meningococcal septicaemia but absence of rash does not exclude it. Limb pain, cold hands/feet, mottling, prolonged capillary refill, hypotension, and rapidly progressive illness are worrying. Meningococcal disease can kill through septic shock before meningitis signs fully develop.
+
+CSF INTERPRETATION: Bacterial meningitis usually has high opening pressure, neutrophil predominance, high protein, and low CSF glucose compared with blood. Viral meningitis often has lymphocytes, normal glucose, and lower protein rise. Partially treated bacterial meningitis can blur patterns. Always interpret CSF with clinical context and paired blood glucose.
+
+ANTIBIOTIC TIMING: Blood cultures are useful, but antibiotics should be given promptly if bacterial meningitis is suspected. If CT is required before LP, give antibiotics before imaging if imaging will delay LP. Dexamethasone works best when given before or with the first antibiotic dose in selected bacterial meningitis pathways.
+
+INFECTION CONTROL AND PUBLIC HEALTH: Meningococcal disease requires droplet precautions initially and public health notification. Close contacts may need prophylaxis depending on organism and policy. Vaccination history matters but does not exclude disease.
+
+FOLLOW-UP: Survivors need hearing assessment, neurological review, cognitive/psychological support, and vaccination or immune workup in selected recurrent or unusual infections.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "classic meningitis signs?", include fever, headache, neck stiffness, photophobia, vomiting, confusion, and rash, while stating the triad is often incomplete. For "when do you do CT before LP?", include focal deficit, papilloedema, new seizure, reduced consciousness, immunocompromise, or mass lesion concern. For "what does bacterial CSF show?", include neutrophils, high protein, low glucose ratio, and raised pressure. For "what is the immediate treatment?", answer urgent empiric IV antibiotics, dexamethasone in selected pathways, and aciclovir if encephalitis possible.
+
+ORGANISM-SPECIFIC CLUES: Pneumococcal meningitis is common in adults and associated with pneumonia, otitis, sinusitis, alcoholism, asplenia, and CSF leak. Meningococcal disease may occur in outbreaks and causes rash or shock. Listeria risk rises in older adults, pregnancy, neonates, and immunosuppression. Neonates have different organisms and non-specific signs.
+
+RAISED INTRACRANIAL PRESSURE: Headache, vomiting, papilloedema, reduced consciousness, sixth nerve palsy, bradycardia with hypertension, or abnormal posturing suggest raised pressure. Manage airway, oxygenation, head position, seizures, and urgent specialist input.
+
+PITFALLS: Kernig and Brudzinski signs are insensitive. Absence of neck stiffness does not exclude meningitis, especially in infants, older adults, or immunosuppression. Do not delay antibiotics while arranging CT or transfer.
+
+SAFETY NOTES: Non-blanching rash with fever or shock is meningococcal sepsis until proven otherwise. Give antibiotics immediately if transfer or LP is delayed.
+
+Sources used: WHO meningitis resources, NICE meningitis guidance, Merck Manual Professional, CDC meningitis resources.

@@ -1,0 +1,45 @@
+Urinary tract infection (UTI) is infection anywhere in the urinary tract. It includes lower UTI/cystitis, upper UTI/pyelonephritis, catheter-associated UTI, prostatitis, and complicated UTI.
+
+CLASSIFICATION: Uncomplicated cystitis usually occurs in non-pregnant adults without structural or functional urinary abnormality. Complicated UTI includes pregnancy, male sex in many frameworks, diabetes with complications, immunosuppression, renal impairment, urinary obstruction, stones, catheters, recurrent infection, or suspected upper tract involvement.
+
+COMMON ORGANISMS: Escherichia coli is most common. Others include Klebsiella, Proteus, Enterococcus, Staphylococcus saprophyticus, Pseudomonas in healthcare-associated infection, and Candida in selected catheterised or immunocompromised patients.
+
+LOWER UTI FEATURES: Dysuria, urinary frequency, urgency, suprapubic discomfort, cloudy or offensive urine, haematuria, and no vaginal discharge or irritation in typical cystitis. Older adults may present non-specifically, but delirium alone should not automatically be attributed to UTI without urinary or systemic evidence.
+
+PYELONEPHRITIS FEATURES: Fever, rigors, flank pain, costovertebral angle tenderness, nausea/vomiting, malaise, and lower urinary symptoms. Severe cases may cause sepsis, hypotension, or acute kidney injury.
+
+DIFFERENTIAL DIAGNOSIS: Sexually transmitted infection, urethritis, vaginitis, pelvic inflammatory disease, prostatitis, renal colic, appendicitis, interstitial cystitis/bladder pain syndrome, genitourinary tuberculosis, and malignancy in persistent haematuria.
+
+INVESTIGATIONS: Urine dipstick can support diagnosis in typical lower UTI. Nitrites and leukocyte esterase increase likelihood, but results depend on organism and urine dwell time. Send urine culture for pregnancy, suspected pyelonephritis, recurrent UTI, complicated UTI, catheter-associated infection, treatment failure, resistant organism risk, men, children, and severe illness. Blood cultures are considered in sepsis or severe pyelonephritis. Check pregnancy test where relevant, U&E/creatinine in upper or complicated UTI, and imaging if obstruction, stone, abscess, recurrent pyelonephritis, or poor response.
+
+MANAGEMENT: Encourage fluids and analgesia. Treat uncomplicated cystitis with a short course of appropriate oral antibiotic based on local resistance and patient factors. Pyelonephritis requires longer treatment and sometimes IV antibiotics if vomiting, pregnant, septic, immunocompromised, obstructed, or unable to take oral therapy. Catheter-associated UTI requires catheter review or replacement when indicated and culture-guided therapy.
+
+SPECIAL SITUATIONS: Pregnancy UTI needs culture confirmation and antibiotics safe in pregnancy, with follow-up culture according to local guidance. Asymptomatic bacteriuria is treated in pregnancy and before selected urological procedures, but not routinely in most other adults.
+
+COMPLICATIONS: Pyelonephritis, renal or perinephric abscess, sepsis, AKI, recurrent UTI, prostatitis, epididymo-orchitis, and pregnancy complications.
+
+STUDENT DIAGNOSTIC APPROACH: Decide whether symptoms fit lower UTI, upper UTI, or another diagnosis. Dysuria plus frequency without vaginal symptoms strongly suggests cystitis in many adult women. Fever, rigors, flank pain, vomiting, or systemic illness suggests pyelonephritis or sepsis. Male urinary symptoms raise concern for prostatitis, obstruction, STI, or complicated infection.
+
+DIPSTICK INTERPRETATION: Nitrites suggest nitrate-reducing bacteria such as many Enterobacterales, but false negatives occur with frequent urination or organisms that do not produce nitrite. Leukocyte esterase suggests pyuria but is not specific. Blood can occur in UTI but persistent haematuria after infection resolves needs evaluation. Do not treat a dipstick alone without symptoms except in selected situations such as pregnancy screening pathways.
+
+URINE CULTURE USE: Culture guides therapy when resistance risk or complications are higher. Send before antibiotics when possible in pyelonephritis, pregnancy, men, recurrent UTI, catheter-associated infection, immunosuppression, renal tract abnormality, recent antibiotics, travel/resistance risk, sepsis, or treatment failure. Interpret mixed growth as possible contamination unless clinical context suggests otherwise.
+
+CATHETER-ASSOCIATED UTI: Bacteriuria is common with long-term catheters and does not always mean infection. Treat symptomatic infection, not cloudy or smelly urine alone. Replace or remove catheter if possible before culture and treatment. Look for obstruction, catheter blockage, bladder pain, fever, flank pain, delirium with systemic evidence, or sepsis.
+
+PYELONEPHRITIS MANAGEMENT: Patients with vomiting, dehydration, pregnancy, sepsis, obstruction, immunosuppression, renal impairment, or failure of oral therapy may need admission and IV antibiotics. Imaging is considered if severe illness, suspected obstruction, stones, recurrent infection, renal impairment, or no improvement after 48-72 hours.
+
+RECURRENT UTI: Confirm with cultures, assess triggers, hydration, sexual association, contraception/spermicides, postmenopausal atrophy, incomplete emptying, stones, diabetes, and anatomical issues. Prevention may include behavioural measures, vaginal oestrogen in postmenopausal patients, post-coital or prophylactic antibiotics in selected cases, and specialist review for atypical features.
+
+ANTIMICROBIAL STEWARDSHIP: Choose narrow therapy where possible based on local resistance, allergy, renal function, pregnancy, and culture. Avoid unnecessary antibiotics for asymptomatic bacteriuria because it promotes resistance and adverse effects without benefit in most adults.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "cystitis versus pyelonephritis?", compare lower urinary symptoms alone with fever, flank pain, vomiting, systemic illness, or renal angle tenderness. For "when do I culture urine?", include pregnancy, men, pyelonephritis, recurrent/complicated infection, catheter, sepsis, treatment failure, and resistance risk. For "what is asymptomatic bacteriuria?", explain bacteria in urine without symptoms, usually not treated except pregnancy and selected urological procedures. For "why did treatment fail?", consider resistance, non-adherence, wrong diagnosis, obstruction, abscess, stone, prostatitis, or infected catheter.
+
+PROSTATITIS: Acute bacterial prostatitis causes fever, perineal pain, dysuria, urinary retention, tender prostate, and systemic illness. Avoid vigorous prostate massage. It often needs longer antibiotics with good prostate penetration and sometimes admission if septic or retaining urine. Consider STI causes in younger sexually active men.
+
+STONES AND OBSTRUCTION: UTI with obstruction is dangerous because infected urine under pressure can cause rapid sepsis. Suspect with renal colic, hydronephrosis, solitary kidney, anuria, severe flank pain, or poor response to antibiotics. Urgent urological drainage may be needed.
+
+PITFALLS: Cloudy or smelly urine alone is not diagnostic. Delirium in older adults has many causes; look for urinary symptoms or systemic infection. Persistent visible haematuria after UTI treatment requires follow-up. Recurrent "UTI" with negative cultures should prompt alternative diagnoses such as vaginitis, STI, bladder pain syndrome, stones, or malignancy.
+
+SAFETY NOTES: Fever, flank pain, vomiting, pregnancy, sepsis, obstruction, solitary kidney, immunosuppression, or failure to improve within 48-72 hours requires escalation.
+
+Sources used: NICE UTI antimicrobial guidance, IDSA guidance, Merck Manual Professional, CDC patient/professional resources.

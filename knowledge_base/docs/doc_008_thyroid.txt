@@ -1,0 +1,37 @@
+Thyroid disorders commonly present with non-specific systemic symptoms. Hypothyroidism reflects deficient thyroid hormone action, while hyperthyroidism or thyrotoxicosis reflects excess thyroid hormone effect.
+
+HYPOTHYROIDISM: Common causes include autoimmune thyroiditis, thyroidectomy, radioiodine, iodine deficiency or excess, medications such as amiodarone or lithium, pituitary disease, and congenital thyroid disease. Symptoms include fatigue, weight gain, cold intolerance, constipation, dry skin, hair loss, heavy or irregular periods, depression, slowed thinking, hoarse voice, and reduced exercise tolerance. Signs include bradycardia, delayed relaxation of reflexes, periorbital puffiness, dry coarse skin, goitre, carpal tunnel syndrome, and non-pitting myxoedema.
+
+HYPOTHYROID INVESTIGATIONS: Primary hypothyroidism usually shows raised TSH with low free T4. Subclinical hypothyroidism has raised TSH with normal free T4. Central hypothyroidism has low or inappropriately normal TSH with low free T4. Check thyroid peroxidase antibodies when autoimmune disease is suspected. Consider lipids, CK, sodium, pregnancy status, and pituitary testing if central disease possible.
+
+HYPOTHYROID MANAGEMENT: Levothyroxine is standard treatment. Start full replacement in young otherwise healthy adults, but use lower starting doses in older adults or coronary disease. Recheck TSH after dose changes. Myxoedema coma is rare but life-threatening and presents with hypothermia, bradycardia, hypoventilation, hypotension, hyponatraemia, and altered mental status; it requires urgent IV thyroid hormone, steroids until adrenal insufficiency is excluded, supportive care, and treatment of triggers.
+
+HYPERTHYROIDISM AND THYROTOXICOSIS: Causes include Graves disease, toxic multinodular goitre, toxic adenoma, thyroiditis, excess thyroid hormone ingestion, iodine-induced thyrotoxicosis, and amiodarone. Symptoms include weight loss despite appetite, heat intolerance, sweating, tremor, palpitations, anxiety, insomnia, diarrhoea, oligomenorrhoea, and proximal muscle weakness. Signs include tachycardia, atrial fibrillation, tremor, warm moist skin, lid lag, goitre, bruit, and hyperreflexia. Graves disease may cause ophthalmopathy and pretibial myxoedema.
+
+HYPERTHYROID INVESTIGATIONS: Low TSH with raised free T4 and/or T3 supports primary thyrotoxicosis. TSH receptor antibodies support Graves disease. Thyroid uptake scan helps distinguish Graves or toxic nodules from thyroiditis when available and safe. Check ECG, LFTs, FBC before antithyroid drugs, and pregnancy status where relevant.
+
+HYPERTHYROID MANAGEMENT: Beta-blockers improve adrenergic symptoms unless contraindicated. Antithyroid drugs such as methimazole/carbimazole or propylthiouracil reduce hormone synthesis; PTU is preferred in thyroid storm and often in first-trimester pregnancy depending on local guidance. Definitive options include radioiodine or surgery in selected patients.
+
+THYROID STORM: Severe thyrotoxicosis with fever, marked tachycardia, agitation, delirium, heart failure, vomiting, diarrhoea, or shock. Treat urgently with supportive care, beta-blocker, antithyroid drug, iodine after antithyroid therapy, glucocorticoids, and trigger management.
+
+STUDENT DIAGNOSTIC APPROACH: Interpret thyroid tests by asking whether the pituitary response is appropriate. In primary hypothyroidism, the thyroid fails and TSH rises. In primary hyperthyroidism, thyroid hormone is high and TSH is suppressed. In central hypothyroidism, pituitary or hypothalamic disease means TSH may be low or inappropriately normal despite low free T4. Do not diagnose or dose-adjust using TSH alone when central disease, pregnancy, acute illness, or recent treatment change is relevant.
+
+SUBCLINICAL DISEASE: Subclinical hypothyroidism means raised TSH with normal free T4. It may be transient, especially after illness, thyroiditis, or medication changes. Treatment depends on TSH level, symptoms, antibodies, goitre, pregnancy plans, age, and cardiovascular risk. Subclinical hyperthyroidism means low TSH with normal free T4/T3; it increases risk of atrial fibrillation and bone loss, especially in older adults.
+
+THYROIDITIS PATTERNS: Thyroiditis can cause a hyperthyroid phase from release of preformed hormone, followed by hypothyroidism and recovery. Painful subacute thyroiditis may follow viral illness and causes neck pain, fever, raised inflammatory markers, and low uptake on scan. Postpartum thyroiditis is usually painless and occurs within the first year after delivery. Antithyroid drugs do not help destructive thyroiditis because hormone is leaking, not being overproduced.
+
+GRAVES DISEASE FEATURES: Graves disease is autoimmune hyperthyroidism caused by TSH receptor antibodies. Clues include diffuse goitre, bruit, ophthalmopathy, pretibial myxoedema, and other autoimmune disease. Eye disease can worsen with smoking and may need specialist treatment. Ask about eye pain, diplopia, colour desaturation, reduced vision, and exposure symptoms.
+
+MEDICATION SAFETY: Antithyroid drugs can rarely cause agranulocytosis and liver injury. Patients should seek urgent blood testing for fever, sore throat, mouth ulcers, jaundice, dark urine, or severe malaise. Amiodarone can cause both hypo- and hyperthyroidism because it contains iodine and affects hormone metabolism. Lithium can cause goitre and hypothyroidism.
+
+PREGNANCY AND THYROID DISEASE: Thyroid disease affects fertility, miscarriage risk, fetal development, and maternal health. Pregnancy changes reference ranges and treatment thresholds. Hyperthyroidism in pregnancy needs specialist input because uncontrolled disease and medication exposure both carry risks. Levothyroxine requirements often increase in pregnancy.
+
+EXAM FOCUS: Hypothyroidism is slow, cold, dry, constipated, bradycardic, and weight-gaining; hyperthyroidism is fast, hot, sweaty, tremulous, diarrhoeal, tachycardic, and weight-losing. Real patients may be subtler, especially older adults, where hyperthyroidism can present as atrial fibrillation, weight loss, or apathy.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "how do I interpret TFTs?", start with TSH, then free T4/T3, and decide whether the pattern is primary, central, subclinical, or non-thyroidal illness. For "what causes hyperthyroidism?", compare Graves, toxic nodules, thyroiditis, iodine/amiodarone, and excess thyroid hormone. For "what causes hypothyroidism?", include autoimmune thyroiditis, thyroidectomy, radioiodine, iodine deficiency, drugs, and pituitary disease. For "what is thyroid storm?", describe severe thyrotoxicosis with fever, CNS disturbance, tachyarrhythmia, heart failure, and GI symptoms.
+
+NON-THYROIDAL ILLNESS: Acute illness can transiently alter thyroid tests, often with low T3 and sometimes abnormal TSH. Avoid over-diagnosing thyroid disease from inpatient tests unless the clinical picture strongly supports it. Repeat testing after recovery may be appropriate.
+
+GOITRE AND NODULES: A diffuse goitre suggests Graves, Hashimoto thyroiditis, iodine deficiency, or multinodular disease. A solitary nodule requires malignancy risk assessment using ultrasound features and sometimes fine-needle aspiration. Compressive symptoms such as dysphagia, stridor, hoarseness, or rapidly enlarging neck mass need urgent evaluation.
+
+Sources used: Merck Manual Professional, American Thyroid Association patient/professional resources, NICE thyroid disease guidance.

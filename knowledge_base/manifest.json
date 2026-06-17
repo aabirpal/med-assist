@@ -1,0 +1,102 @@
+[
+  {
+    "id": "doc_001",
+    "topic": "Chest Pain — Differential Diagnosis and Emergency Approach",
+    "file": "doc_001_chest_pain.txt"
+  },
+  {
+    "id": "doc_002",
+    "topic": "Pneumonia — Community-Acquired and Hospital-Acquired",
+    "file": "doc_002_pneumonia.txt"
+  },
+  {
+    "id": "doc_003",
+    "topic": "Pulmonary Embolism — Diagnosis, Risk Stratification, and Management",
+    "file": "doc_003_pulmonary_embolism.txt"
+  },
+  {
+    "id": "doc_004",
+    "topic": "Acute Coronary Syndrome — STEMI, NSTEMI, and Unstable Angina",
+    "file": "doc_004_acs.txt"
+  },
+  {
+    "id": "doc_005",
+    "topic": "Diabetes Mellitus — Type 1, Type 2, MODY, Complications, and Management",
+    "file": "doc_005_diabetes.txt"
+  },
+  {
+    "id": "doc_006",
+    "topic": "Hypertension — Diagnosis, Classification, Investigation, and Treatment",
+    "file": "doc_006_hypertension.txt"
+  },
+  {
+    "id": "doc_007",
+    "topic": "Anaemia — Classification, Investigation, and Management",
+    "file": "doc_007_anaemia.txt"
+  },
+  {
+    "id": "doc_008",
+    "topic": "Thyroid Disorders — Hypothyroidism, Hyperthyroidism, and Thyroid Storm",
+    "file": "doc_008_thyroid.txt"
+  },
+  {
+    "id": "doc_009",
+    "topic": "Stroke and TIA — Recognition, Classification, and Emergency Management",
+    "file": "doc_009_stroke.txt"
+  },
+  {
+    "id": "doc_010",
+    "topic": "Sepsis — Pathophysiology, Recognition, Sepsis-3, and Sepsis Six",
+    "file": "doc_010_sepsis.txt"
+  },
+  {
+    "id": "doc_011",
+    "topic": "Acute Appendicitis — Diagnosis and Surgical Management",
+    "file": "doc_011_appendicitis.txt"
+  },
+  {
+    "id": "doc_012",
+    "topic": "Heart Failure — Classification, Diagnosis, and Evidence-Based Management",
+    "file": "doc_012_heart_failure.txt"
+  },
+  {
+    "id": "doc_013",
+    "topic": "Diabetic Ketoacidosis (DKA) — Diagnosis and Management",
+    "file": "doc_013_dka.txt"
+  },
+  {
+    "id": "doc_014",
+    "topic": "Acute Kidney Injury (AKI) — Causes, Diagnosis, and Management",
+    "file": "doc_014_aki.txt"
+  },
+  {
+    "id": "doc_015",
+    "topic": "COPD — Diagnosis, Stable Management, and Acute Exacerbations",
+    "file": "doc_015_copd.txt"
+  },
+  {
+    "id": "doc_016",
+    "topic": "Deep Vein Thrombosis (DVT) — Diagnosis and Management",
+    "file": "doc_016_dvt.txt"
+  },
+  {
+    "id": "doc_017",
+    "topic": "Atrial Fibrillation — Classification, Stroke Risk, and Management",
+    "file": "doc_017_af.txt"
+  },
+  {
+    "id": "doc_018",
+    "topic": "Bacterial Meningitis — Diagnosis and Emergency Management",
+    "file": "doc_018_meningitis.txt"
+  },
+  {
+    "id": "doc_019",
+    "topic": "Asthma — Diagnosis, Stepwise Management, and Acute Severe Asthma",
+    "file": "doc_019_asthma.txt"
+  },
+  {
+    "id": "doc_020",
+    "topic": "Urinary Tract Infections — Classification, Diagnosis, and Treatment",
+    "file": "doc_020_uti.txt"
+  }
+]

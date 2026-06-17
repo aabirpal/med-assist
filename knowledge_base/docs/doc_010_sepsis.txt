@@ -1,0 +1,41 @@
+Sepsis is life-threatening organ dysfunction caused by a dysregulated host response to infection. Septic shock is sepsis with profound circulatory, cellular, and metabolic abnormalities, usually requiring vasopressors and associated with high mortality.
+
+COMMON SOURCES: Pneumonia, urinary tract infection, intra-abdominal infection, skin and soft tissue infection, meningitis, bloodstream infection, line infection, bone and joint infection, and postpartum or gynaecological infection.
+
+RISK FACTORS: Extremes of age, pregnancy, immunosuppression, cancer, diabetes, chronic kidney or liver disease, recent surgery, indwelling devices, splenectomy, IV drug use, and recent hospitalisation or antibiotics.
+
+CLINICAL FEATURES: Fever or hypothermia, rigors, tachycardia, tachypnoea, hypotension, confusion, reduced urine output, mottled or cool peripheries, delayed capillary refill, hypoxia, severe pain, rash, or rapidly worsening illness. Older or immunosuppressed patients may not mount a fever.
+
+SCREENING AND ORGAN DYSFUNCTION: Sepsis is suspected from infection plus abnormal physiology or organ dysfunction. Concerning findings include systolic BP 90 mmHg or lower, lactate elevation, new confusion, respiratory rate 22 or higher, oxygen requirement, oliguria, rising creatinine, thrombocytopenia, coagulopathy, bilirubin rise, or acidosis.
+
+INITIAL ASSESSMENT: Use ABCDE. Escalate early. Monitor temperature, pulse, BP, respiratory rate, oxygen saturation, mental state, urine output, and lactate. Identify likely source and look for immediately treatable foci such as obstructed infected kidney, necrotising soft tissue infection, perforated viscus, meningitis, or infected line.
+
+INVESTIGATIONS: Blood cultures before antibiotics if this does not delay treatment, FBC, U&E, LFT, CRP/procalcitonin where used, coagulation, venous or arterial blood gas with lactate, glucose, urinalysis and culture, sputum culture if productive, chest X-ray, and targeted imaging. Consider lumbar puncture after stabilisation and imaging rules when meningitis is suspected.
+
+EARLY MANAGEMENT: Give oxygen if hypoxic, obtain IV access, take cultures, start broad-spectrum antibiotics promptly according to likely source and local resistance patterns, give IV crystalloid for hypotension or hypoperfusion, monitor lactate and urine output, and seek source control. Source control may require drainage, surgery, device removal, or decompression. Vasopressors such as noradrenaline are used for persistent shock after fluids, usually in critical care.
+
+COMPLICATIONS: Septic shock, acute kidney injury, ARDS, DIC, delirium, myocardial dysfunction, hepatic injury, limb ischaemia, and death. Survivors may have prolonged weakness, cognitive impairment, and psychological morbidity.
+
+STUDENT DIAGNOSTIC APPROACH: Sepsis is not diagnosed by fever alone. Think infection plus organ dysfunction. A patient with pneumonia and normal physiology may have infection without sepsis; a patient with UTI, confusion, hypotension, and AKI may have sepsis even without fever. Look for trajectory: rapidly worsening observations, new oxygen need, reduced urine output, altered mental state, mottled skin, or rising lactate.
+
+SOURCE IDENTIFICATION: Ask focused questions by system. Respiratory: cough, sputum, pleuritic pain, hypoxia. Urinary: dysuria, frequency, flank pain, catheter, obstruction. Abdominal: pain, vomiting, diarrhoea, jaundice, recent surgery. Skin: cellulitis, wounds, necrotising infection, pressure sores. CNS: headache, neck stiffness, photophobia, rash, seizures. Lines/devices: central line, dialysis access, prosthetic joints, pacemakers. Travel and immune status matter.
+
+LACTATE AND PERFUSION: Lactate can rise from tissue hypoperfusion, adrenergic stress, seizures, liver dysfunction, beta-agonists, and other causes. A high lactate in suspected infection is concerning even if blood pressure is normal. Capillary refill, mottling, cool peripheries, oliguria, and mental state give bedside information about perfusion.
+
+ANTIBIOTIC PRINCIPLES: Choose empiric antibiotics according to likely source, severity, allergies, renal function, immune status, recent cultures, prior resistant organisms, recent hospitalisation, and local resistance patterns. Take cultures first if it does not delay treatment, then give antibiotics promptly. Review at 24-72 hours to narrow, stop, or continue based on cultures and clinical response.
+
+FLUID AND VASOPRESSOR THINKING: Give IV crystalloid for hypotension, hypoperfusion, or raised lactate, then reassess frequently. Too little fluid worsens shock; too much fluid worsens pulmonary oedema, abdominal pressure, and tissue oedema. Persistent hypotension after appropriate fluids suggests septic shock and need for vasopressors, usually noradrenaline, in a monitored setting.
+
+SOURCE CONTROL: Antibiotics alone may fail if pus, obstruction, dead tissue, or infected hardware remains. Examples include draining abscess or empyema, relieving obstructed infected kidney, removing infected lines, surgery for perforation, debridement of necrotising fasciitis, and biliary drainage for cholangitis.
+
+SPECIAL GROUPS: Neutropenic sepsis may have minimal signs and requires immediate broad-spectrum antibiotics. Maternal sepsis, meningococcal sepsis, and paediatric sepsis require specialist pathways. Older adults may present with delirium, falls, anorexia, or functional decline.
+
+COMMON STUDENT QUESTIONS THIS DOCUMENT SHOULD SUPPORT: For "what is sepsis?", answer infection with life-threatening organ dysfunction, not simply bacteraemia or fever. For "what are red flags?", include hypotension, confusion, tachypnoea, hypoxia, oliguria, mottling, high lactate, non-blanching rash, and rapidly worsening illness. For "what should be done in the first hour?", include oxygen if needed, cultures, antibiotics, IV fluids for hypoperfusion, lactate, urine output, and senior escalation/source control.
+
+SEPSIS MIMICS AND COEXISTING DIAGNOSES: Pancreatitis, PE, DKA, adrenal crisis, anaphylaxis, haemorrhage, toxic ingestion, heat stroke, and autoimmune flare can mimic sepsis physiology. Infection can also trigger DKA, AKI, delirium, AF, or ACS. Keep reassessing when the patient does not respond as expected.
+
+DOCUMENTATION AND HANDOVER: State suspected source, organ dysfunction, lactate, antibiotics and time given, cultures taken, fluid volume and response, urine output, escalation status, and source-control plan. This makes sepsis care auditable and safer during shift changes.
+
+SAFETY NOTES: Normal temperature or normal white cell count does not exclude sepsis. Suspected meningococcal sepsis, septic shock, neutropenic sepsis, or rapidly spreading soft tissue infection needs immediate senior involvement.
+
+Sources used: Surviving Sepsis Campaign, NICE sepsis guidance, WHO sepsis information, Merck Manual Professional.
