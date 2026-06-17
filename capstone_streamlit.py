@@ -5,6 +5,28 @@ Streaming Streamlit UI. All logic lives in agent.py and knowledge_base/.
 Run: streamlit run capstone_streamlit.py
 """
 
+import sys
+from unittest.mock import MagicMock
+from importlib.machinery import ModuleSpec
+
+# Mock torchvision modules and submodules dynamically to prevent torchvision ModuleNotFoundError warnings
+class _TorchvisionMockLoader:
+    def create_module(self, spec):
+        m = MagicMock()
+        m.__spec__ = spec
+        m.__path__ = []
+        return m
+    def exec_module(self, module):
+        pass
+
+class _TorchvisionMockFinder:
+    def find_spec(self, fullname, path, target=None):
+        if fullname == 'torchvision' or fullname.startswith('torchvision.'):
+            return ModuleSpec(fullname, _TorchvisionMockLoader())
+        return None
+
+sys.meta_path.insert(0, _TorchvisionMockFinder())
+
 import uuid
 import streamlit as st
 
@@ -21,7 +43,7 @@ st.set_page_config(
 
 st.title("⚕️ Med-Assist — Clinical Diagnosis Assistant")
 st.caption("Evidence-based clinical decision support for medical students and junior doctors")
-st.success(f"✅ Knowledge base loaded — {collection.count()} chunks from {len(DOCUMENTS)} documents")
+st.success(f"Knowledge base loaded — {collection.count()} chunks from {len(DOCUMENTS)} documents")
 
 # ── Session state ─────────────────────────────────────────────────────────────
 if "messages"  not in st.session_state: st.session_state.messages  = []
@@ -35,12 +57,12 @@ with st.sidebar:
     st.write(f"**Session ID:** `{st.session_state.thread_id}`")
     st.divider()
 
-    st.write("**📚 Clinical Topics Covered:**")
+    st.write("**Clinical Topics Covered:**")
     for doc in DOCUMENTS:
         st.write(f"• {doc['topic']}")
     st.divider()
 
-    st.write("**🧮 Clinical Calculator Tool:**")
+    st.write("**Clinical Calculator Tool:**")
     st.info(
         "Provide patient parameters and ask for a score:\n\n"
         "- *CURB-65: age 70, confused, urea 9, RR 32, BP 110/70*\n"
@@ -50,7 +72,7 @@ with st.sidebar:
     st.divider()
     st.caption("⚠️ For educational use only.\nAlways verify with a senior clinician.")
 
-    if st.button("🗑️ New Consultation"):
+    if st.button("New Consultation"):
         st.session_state.messages  = []
         st.session_state.thread_id = str(uuid.uuid4())[:8]
         st.rerun()
@@ -92,9 +114,9 @@ if prompt := st.chat_input("Ask a clinical question or request a risk score...")
                 faith   = meta.get("faithfulness", 0.0)
                 route   = meta.get("route", "?")
                 sources = meta.get("sources", [])
-                caption = f"🔀 Route: `{route}` | 🎯 Faithfulness: `{faith:.2f}`"
+                caption = f"Route: `{route}` | Faithfulness: `{faith:.2f}`"
                 if sources:
-                    caption += f" | 📄 {', '.join(sources[:2])}"
+                    caption += f" | Sources: {', '.join(sources[:2])}"
                 st.caption(caption)
 
             st.session_state.messages.append({"role": "assistant", "content": full_answer})
